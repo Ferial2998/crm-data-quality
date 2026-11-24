@@ -1,0 +1,308 @@
+record_id,subsidiary,rule,column,severity,description,value
+R00359,Print Lyon,INVALID_EMAIL,email,bloquant,Format d'email invalide,chloe.rossi@@orfevreriedelmas.com
+R00118,Events Dubai,MISSING_EMAIL,email,majeur,Champ obligatoire manquant : email,
+R00031,Print Lyon,STALE_ACCOUNT,last_contact_date,mineur,Aucun contact depuis plus de 18 mois,2024-06-15
+R00193,Digital London,STALE_ACCOUNT,last_contact_date,mineur,Aucun contact depuis plus de 18 mois,2025-04-27
+R00080,Digital London,INVALID_SIRET,siret,majeur,SIRET invalide (14 chiffres + clé de Luhn),18196001338901
+R00080,Digital London,STALE_ACCOUNT,last_contact_date,mineur,Aucun contact depuis plus de 18 mois,2025-03-22
+R00362,Vitrines Milano,STALE_ACCOUNT,last_contact_date,mineur,Aucun contact depuis plus de 18 mois,2024-08-27
+R00337,Vitrines Milano,STALE_ACCOUNT,last_contact_date,mineur,Aucun contact depuis plus de 18 mois,2024-10-03
+R00056,Events Dubai,MISSING_PHONE,phone,majeur,Champ obligatoire manquant : phone,
+R00056,Events Dubai,INVALID_PHONE,phone_raw,majeur,Téléphone non convertible au format international,09996
+R00368,Vitrines Milano,MISSING_EMAIL,email,majeur,Champ obligatoire manquant : email,
+R00312,Print Lyon,STALE_ACCOUNT,last_contact_date,mineur,Aucun contact depuis plus de 18 mois,2025-05-01
+R00392,Print Lyon,INVALID_SIRET,siret,majeur,SIRET invalide (14 chiffres + clé de Luhn),99854353462479
+R00392,Print Lyon,STALE_ACCOUNT,last_contact_date,mineur,Aucun contact depuis plus de 18 mois,2024-10-29
+R00076,Events Dubai,INVALID_EMAIL,email,bloquant,Format d'email invalide,rayan.mansourimaroquineriebelcourt.com
+R00076,Events Dubai,STALE_ACCOUNT,last_contact_date,mineur,Aucun contact depuis plus de 18 mois,2024-07-14
+R00246,Digital London,MISSING_EMAIL,email,majeur,Champ obligatoire manquant : email,
+R00404,PLV Paris,STALE_ACCOUNT,last_contact_date,mineur,Aucun contact depuis plus de 18 mois,2025-01-31
+R00078,PLV Paris,MISSING_SEGMENT,segment,mineur,Champ obligatoire manquant : segment,
+R00078,PLV Paris,STALE_ACCOUNT,last_contact_date,mineur,Aucun contact depuis plus de 18 mois,2025-04-27
+R00091,Digital London,STALE_ACCOUNT,last_contact_date,mineur,Aucun contact depuis plus de 18 mois,2025-03-08
+R00117,PLV Paris,STALE_ACCOUNT,last_contact_date,mineur,Aucun contact depuis plus de 18 mois,2025-05-16
+R00040,Vitrines Milano,STALE_ACCOUNT,last_contact_date,mineur,Aucun contact depuis plus de 18 mois,2024-07-01
+R00074,Vitrines Milano,INVALID_EMAIL,email,bloquant,Format d'email invalide,lucas.haddad@@maisonalbane.com
+R00077,Digital London,MISSING_PHONE,phone,majeur,Champ obligatoire manquant : phone,
+R00374,Print Lyon,MISSING_SEGMENT,segment,mineur,Champ obligatoire manquant : segment,
+R00374,Print Lyon,STALE_ACCOUNT,last_contact_date,mineur,Aucun contact depuis plus de 18 mois,2025-03-05
+R00433,Events Dubai,STALE_ACCOUNT,last_contact_date,mineur,Aucun contact depuis plus de 18 mois,2024-10-31
+R00439,PLV Paris,STALE_ACCOUNT,last_contact_date,mineur,Aucun contact depuis plus de 18 mois,2025-01-29
+R00079,Print Lyon,MISSING_SEGMENT,segment,mineur,Champ obligatoire manquant : segment,
+R00034,Digital London,STALE_ACCOUNT,last_contact_date,mineur,Aucun contact depuis plus de 18 mois,2025-02-07
+R00127,Print Lyon,STALE_ACCOUNT,last_contact_date,mineur,Aucun contact depuis plus de 18 mois,2024-09-11
+R00278,Print Lyon,STALE_ACCOUNT,last_contact_date,mineur,Aucun contact depuis plus de 18 mois,2025-01-31
+R00336,Events Dubai,STALE_ACCOUNT,last_contact_date,mineur,Aucun contact depuis plus de 18 mois,2024-08-31
+R00016,Digital London,STALE_ACCOUNT,last_contact_date,mineur,Aucun contact depuis plus de 18 mois,2024-10-16
+R00290,PLV Paris,STALE_ACCOUNT,last_contact_date,mineur,Aucun contact depuis plus de 18 mois,2025-04-06
+R00133,Print Lyon,STALE_ACCOUNT,last_contact_date,mineur,Aucun contact depuis plus de 18 mois,2025-02-05
+R00001,Digital London,STALE_ACCOUNT,last_contact_date,mineur,Aucun contact depuis plus de 18 mois,2024-09-13
+R00020,PLV Paris,FUTURE_CONTACT_DATE,last_contact_date,majeur,Date de dernier contact dans le futur,2027-03-04
+R00295,Vitrines Milano,STALE_ACCOUNT,last_contact_date,mineur,Aucun contact depuis plus de 18 mois,2025-04-15
+R00057,Vitrines Milano,MISSING_EMAIL,email,majeur,Champ obligatoire manquant : email,
+R00422,Vitrines Milano,STALE_ACCOUNT,last_contact_date,mineur,Aucun contact depuis plus de 18 mois,2024-07-24
+R00232,Events Dubai,STALE_ACCOUNT,last_contact_date,mineur,Aucun contact depuis plus de 18 mois,2025-04-12
+R00279,PLV Paris,STALE_ACCOUNT,last_contact_date,mineur,Aucun contact depuis plus de 18 mois,2024-07-16
+R00197,Events Dubai,MISSING_COUNTRY,country,mineur,Champ obligatoire manquant : country,
+R00197,Events Dubai,STALE_ACCOUNT,last_contact_date,mineur,Aucun contact depuis plus de 18 mois,2024-09-22
+R00276,Vitrines Milano,STALE_ACCOUNT,last_contact_date,mineur,Aucun contact depuis plus de 18 mois,2024-11-28
+R00043,PLV Paris,STALE_ACCOUNT,last_contact_date,mineur,Aucun contact depuis plus de 18 mois,2025-03-04
+R00221,Print Lyon,MISSING_SEGMENT,segment,mineur,Champ obligatoire manquant : segment,
+R00262,PLV Paris,STALE_ACCOUNT,last_contact_date,mineur,Aucun contact depuis plus de 18 mois,2024-08-11
+R00287,Digital London,MISSING_EMAIL,email,majeur,Champ obligatoire manquant : email,
+R00287,Digital London,STALE_ACCOUNT,last_contact_date,mineur,Aucun contact depuis plus de 18 mois,2025-03-29
+R00023,Print Lyon,STALE_ACCOUNT,last_contact_date,mineur,Aucun contact depuis plus de 18 mois,2025-01-29
+R00047,PLV Paris,STALE_ACCOUNT,last_contact_date,mineur,Aucun contact depuis plus de 18 mois,2024-07-09
+R00366,Events Dubai,MISSING_SEGMENT,segment,mineur,Champ obligatoire manquant : segment,
+R00058,PLV Paris,STALE_ACCOUNT,last_contact_date,mineur,Aucun contact depuis plus de 18 mois,2025-03-24
+R00427,Digital London,STALE_ACCOUNT,last_contact_date,mineur,Aucun contact depuis plus de 18 mois,2024-06-26
+R00025,Events Dubai,INVALID_SIRET,siret,majeur,SIRET invalide (14 chiffres + clé de Luhn),10651333872629
+R00018,Digital London,MISSING_EMAIL,email,majeur,Champ obligatoire manquant : email,
+R00067,Print Lyon,STALE_ACCOUNT,last_contact_date,mineur,Aucun contact depuis plus de 18 mois,2024-09-04
+R00177,Vitrines Milano,MISSING_PHONE,phone,majeur,Champ obligatoire manquant : phone,
+R00177,Vitrines Milano,STALE_ACCOUNT,last_contact_date,mineur,Aucun contact depuis plus de 18 mois,2024-12-13
+R00248,Digital London,STALE_ACCOUNT,last_contact_date,mineur,Aucun contact depuis plus de 18 mois,2025-01-19
+R00085,PLV Paris,INVALID_SIRET,siret,majeur,SIRET invalide (14 chiffres + clé de Luhn),10651333872629
+R00085,PLV Paris,STALE_ACCOUNT,last_contact_date,mineur,Aucun contact depuis plus de 18 mois,2024-06-13
+R00352,Events Dubai,MISSING_EMAIL,email,majeur,Champ obligatoire manquant : email,
+R00182,PLV Paris,MISSING_PHONE,phone,majeur,Champ obligatoire manquant : phone,
+R00182,PLV Paris,INVALID_PHONE,phone_raw,majeur,Téléphone non convertible au format international,05494
+R00182,PLV Paris,STALE_ACCOUNT,last_contact_date,mineur,Aucun contact depuis plus de 18 mois,2024-11-13
+R00282,Vitrines Milano,MISSING_SEGMENT,segment,mineur,Champ obligatoire manquant : segment,
+R00240,Digital London,STALE_ACCOUNT,last_contact_date,mineur,Aucun contact depuis plus de 18 mois,2024-11-21
+R00209,Events Dubai,STALE_ACCOUNT,last_contact_date,mineur,Aucun contact depuis plus de 18 mois,2025-04-23
+R00389,Print Lyon,STALE_ACCOUNT,last_contact_date,mineur,Aucun contact depuis plus de 18 mois,2025-02-02
+R00176,Digital London,STALE_ACCOUNT,last_contact_date,mineur,Aucun contact depuis plus de 18 mois,2025-03-04
+R00348,Digital London,STALE_ACCOUNT,last_contact_date,mineur,Aucun contact depuis plus de 18 mois,2025-03-28
+R00046,PLV Paris,STALE_ACCOUNT,last_contact_date,mineur,Aucun contact depuis plus de 18 mois,2025-05-03
+R00384,PLV Paris,MISSING_COUNTRY,country,mineur,Champ obligatoire manquant : country,
+R00384,PLV Paris,STALE_ACCOUNT,last_contact_date,mineur,Aucun contact depuis plus de 18 mois,2024-08-19
+R00125,Vitrines Milano,MISSING_EMAIL,email,majeur,Champ obligatoire manquant : email,
+R00004,Vitrines Milano,MISSING_PHONE,phone,majeur,Champ obligatoire manquant : phone,
+R00061,Print Lyon,MISSING_SEGMENT,segment,mineur,Champ obligatoire manquant : segment,
+R00226,Print Lyon,STALE_ACCOUNT,last_contact_date,mineur,Aucun contact depuis plus de 18 mois,2024-07-22
+R00141,PLV Paris,INVALID_EMAIL,email,bloquant,Format d'email invalide,amira.garcia@parfumsombrelle
+R00141,PLV Paris,STALE_ACCOUNT,last_contact_date,mineur,Aucun contact depuis plus de 18 mois,2024-07-31
+R00219,Digital London,STALE_ACCOUNT,last_contact_date,mineur,Aucun contact depuis plus de 18 mois,2024-09-22
+R00030,Digital London,MISSING_PHONE,phone,majeur,Champ obligatoire manquant : phone,
+R00030,Digital London,STALE_ACCOUNT,last_contact_date,mineur,Aucun contact depuis plus de 18 mois,2024-06-30
+R00132,Digital London,INVALID_EMAIL,email,bloquant,Format d'email invalide,yasmine.laurent@bijouxcastellane
+R00405,Vitrines Milano,STALE_ACCOUNT,last_contact_date,mineur,Aucun contact depuis plus de 18 mois,2024-09-22
+R00416,Print Lyon,STALE_ACCOUNT,last_contact_date,mineur,Aucun contact depuis plus de 18 mois,2024-09-01
+R00169,PLV Paris,STALE_ACCOUNT,last_contact_date,mineur,Aucun contact depuis plus de 18 mois,2024-10-18
+R00297,Events Dubai,MISSING_SEGMENT,segment,mineur,Champ obligatoire manquant : segment,
+R00397,Events Dubai,STALE_ACCOUNT,last_contact_date,mineur,Aucun contact depuis plus de 18 mois,2024-08-26
+R00424,PLV Paris,STALE_ACCOUNT,last_contact_date,mineur,Aucun contact depuis plus de 18 mois,2024-11-23
+R00395,Vitrines Milano,MISSING_COUNTRY,country,mineur,Champ obligatoire manquant : country,
+R00110,Vitrines Milano,STALE_ACCOUNT,last_contact_date,mineur,Aucun contact depuis plus de 18 mois,2024-09-22
+R00358,Events Dubai,MISSING_COUNTRY,country,mineur,Champ obligatoire manquant : country,
+R00263,Events Dubai,MISSING_EMAIL,email,majeur,Champ obligatoire manquant : email,
+R00084,Events Dubai,MISSING_PHONE,phone,majeur,Champ obligatoire manquant : phone,
+R00075,Print Lyon,STALE_ACCOUNT,last_contact_date,mineur,Aucun contact depuis plus de 18 mois,2024-11-27
+R00245,Digital London,MISSING_PHONE,phone,majeur,Champ obligatoire manquant : phone,
+R00245,Digital London,STALE_ACCOUNT,last_contact_date,mineur,Aucun contact depuis plus de 18 mois,2024-11-30
+R00200,PLV Paris,MISSING_PHONE,phone,majeur,Champ obligatoire manquant : phone,
+R00120,Print Lyon,STALE_ACCOUNT,last_contact_date,mineur,Aucun contact depuis plus de 18 mois,2024-12-30
+R00249,PLV Paris,INVALID_EMAIL,email,bloquant,Format d'email invalide,lucas.roux@atelierlisiere
+R00249,PLV Paris,STALE_ACCOUNT,last_contact_date,mineur,Aucun contact depuis plus de 18 mois,2024-09-01
+R00210,PLV Paris,MISSING_SEGMENT,segment,mineur,Champ obligatoire manquant : segment,
+R00343,Events Dubai,MISSING_SEGMENT,segment,mineur,Champ obligatoire manquant : segment,
+R00343,Events Dubai,STALE_ACCOUNT,last_contact_date,mineur,Aucun contact depuis plus de 18 mois,2024-12-12
+R00194,Vitrines Milano,INVALID_EMAIL,email,bloquant,Format d'email invalide,claire.lefevrecristalmontaigne.com
+R00194,Vitrines Milano,STALE_ACCOUNT,last_contact_date,mineur,Aucun contact depuis plus de 18 mois,2024-12-24
+R00365,Digital London,MISSING_PHONE,phone,majeur,Champ obligatoire manquant : phone,
+R00365,Digital London,STALE_ACCOUNT,last_contact_date,mineur,Aucun contact depuis plus de 18 mois,2025-04-06
+R00415,Print Lyon,STALE_ACCOUNT,last_contact_date,mineur,Aucun contact depuis plus de 18 mois,2025-05-12
+R00060,Print Lyon,MISSING_PHONE,phone,majeur,Champ obligatoire manquant : phone,
+R00060,Print Lyon,STALE_ACCOUNT,last_contact_date,mineur,Aucun contact depuis plus de 18 mois,2024-12-31
+R00112,PLV Paris,MISSING_EMAIL,email,majeur,Champ obligatoire manquant : email,
+R00372,Events Dubai,STALE_ACCOUNT,last_contact_date,mineur,Aucun contact depuis plus de 18 mois,2025-05-12
+R00250,Events Dubai,MISSING_PHONE,phone,majeur,Champ obligatoire manquant : phone,
+R00250,Events Dubai,INVALID_PHONE,phone_raw,majeur,Téléphone non convertible au format international,03321
+R00250,Events Dubai,STALE_ACCOUNT,last_contact_date,mineur,Aucun contact depuis plus de 18 mois,2025-05-01
+R00007,Events Dubai,FUTURE_CONTACT_DATE,last_contact_date,majeur,Date de dernier contact dans le futur,2027-05-06
+R00322,PLV Paris,STALE_ACCOUNT,last_contact_date,mineur,Aucun contact depuis plus de 18 mois,2024-07-27
+R00308,PLV Paris,MISSING_PHONE,phone,majeur,Champ obligatoire manquant : phone,
+R00308,PLV Paris,STALE_ACCOUNT,last_contact_date,mineur,Aucun contact depuis plus de 18 mois,2025-01-23
+R00159,Events Dubai,MISSING_PHONE,phone,majeur,Champ obligatoire manquant : phone,
+R00159,Events Dubai,INVALID_PHONE,phone_raw,majeur,Téléphone non convertible au format international,04196
+R00159,Events Dubai,STALE_ACCOUNT,last_contact_date,mineur,Aucun contact depuis plus de 18 mois,2024-12-10
+R00178,Print Lyon,STALE_ACCOUNT,last_contact_date,mineur,Aucun contact depuis plus de 18 mois,2024-10-16
+R00011,Events Dubai,STALE_ACCOUNT,last_contact_date,mineur,Aucun contact depuis plus de 18 mois,2025-02-24
+R00082,Vitrines Milano,STALE_ACCOUNT,last_contact_date,mineur,Aucun contact depuis plus de 18 mois,2024-11-23
+R00039,Print Lyon,MISSING_EMAIL,email,majeur,Champ obligatoire manquant : email,
+R00039,Print Lyon,STALE_ACCOUNT,last_contact_date,mineur,Aucun contact depuis plus de 18 mois,2025-05-22
+R00353,Events Dubai,STALE_ACCOUNT,last_contact_date,mineur,Aucun contact depuis plus de 18 mois,2025-01-05
+R00168,Vitrines Milano,MISSING_EMAIL,email,majeur,Champ obligatoire manquant : email,
+R00432,Events Dubai,STALE_ACCOUNT,last_contact_date,mineur,Aucun contact depuis plus de 18 mois,2024-11-27
+R00199,PLV Paris,STALE_ACCOUNT,last_contact_date,mineur,Aucun contact depuis plus de 18 mois,2024-08-30
+R00090,Digital London,INVALID_EMAIL,email,bloquant,Format d'email invalide,mehdi.khelifistudioelara.com
+R00291,Vitrines Milano,STALE_ACCOUNT,last_contact_date,mineur,Aucun contact depuis plus de 18 mois,2025-02-21
+R00324,Vitrines Milano,STALE_ACCOUNT,last_contact_date,mineur,Aucun contact depuis plus de 18 mois,2025-02-01
+R00148,PLV Paris,INVALID_EMAIL,email,bloquant,Format d'email invalide,ines.garciamaisonsarrazin.com
+R00148,PLV Paris,STALE_ACCOUNT,last_contact_date,mineur,Aucun contact depuis plus de 18 mois,2024-08-13
+R00003,Events Dubai,STALE_ACCOUNT,last_contact_date,mineur,Aucun contact depuis plus de 18 mois,2025-03-13
+R00357,Events Dubai,STALE_ACCOUNT,last_contact_date,mineur,Aucun contact depuis plus de 18 mois,2024-07-24
+R00124,Vitrines Milano,INVALID_EMAIL,email,bloquant,Format d'email invalide,mehdi.bernard@maisonvalmontrive
+R00124,Vitrines Milano,STALE_ACCOUNT,last_contact_date,mineur,Aucun contact depuis plus de 18 mois,2024-06-20
+R00330,Print Lyon,MISSING_PHONE,phone,majeur,Champ obligatoire manquant : phone,
+R00330,Print Lyon,MISSING_COUNTRY,country,mineur,Champ obligatoire manquant : country,
+R00330,Print Lyon,INVALID_PHONE,phone_raw,majeur,Téléphone non convertible au format international,06.67.42.66.29
+R00097,PLV Paris,MISSING_SEGMENT,segment,mineur,Champ obligatoire manquant : segment,
+R00097,PLV Paris,STALE_ACCOUNT,last_contact_date,mineur,Aucun contact depuis plus de 18 mois,2024-10-10
+R00144,PLV Paris,STALE_ACCOUNT,last_contact_date,mineur,Aucun contact depuis plus de 18 mois,2024-10-19
+R00339,Vitrines Milano,MISSING_EMAIL,email,majeur,Champ obligatoire manquant : email,
+R00339,Vitrines Milano,STALE_ACCOUNT,last_contact_date,mineur,Aucun contact depuis plus de 18 mois,2025-01-06
+R00275,Events Dubai,MISSING_EMAIL,email,majeur,Champ obligatoire manquant : email,
+R00038,Print Lyon,MISSING_PHONE,phone,majeur,Champ obligatoire manquant : phone,
+R00038,Print Lyon,INVALID_PHONE,phone_raw,majeur,Téléphone non convertible au format international,05568
+R00038,Print Lyon,STALE_ACCOUNT,last_contact_date,mineur,Aucun contact depuis plus de 18 mois,2025-01-01
+R00256,Vitrines Milano,MISSING_SEGMENT,segment,mineur,Champ obligatoire manquant : segment,
+R00183,PLV Paris,MISSING_PHONE,phone,majeur,Champ obligatoire manquant : phone,
+R00183,PLV Paris,STALE_ACCOUNT,last_contact_date,mineur,Aucun contact depuis plus de 18 mois,2024-07-05
+R00299,PLV Paris,MISSING_PHONE,phone,majeur,Champ obligatoire manquant : phone,
+R00299,PLV Paris,STALE_ACCOUNT,last_contact_date,mineur,Aucun contact depuis plus de 18 mois,2024-12-24
+R00272,Events Dubai,MISSING_PHONE,phone,majeur,Champ obligatoire manquant : phone,
+R00393,Events Dubai,MISSING_PHONE,phone,majeur,Champ obligatoire manquant : phone,
+R00313,PLV Paris,STALE_ACCOUNT,last_contact_date,mineur,Aucun contact depuis plus de 18 mois,2025-01-06
+R00354,Vitrines Milano,INVALID_EMAIL,email,bloquant,Format d'email invalide,hugo.dubois@@horlogerievasseur.com
+R00354,Vitrines Milano,STALE_ACCOUNT,last_contact_date,mineur,Aucun contact depuis plus de 18 mois,2024-10-20
+R00147,Digital London,FUTURE_CONTACT_DATE,last_contact_date,majeur,Date de dernier contact dans le futur,2026-12-28
+R00269,Events Dubai,MISSING_SEGMENT,segment,mineur,Champ obligatoire manquant : segment,
+R00224,Digital London,STALE_ACCOUNT,last_contact_date,mineur,Aucun contact depuis plus de 18 mois,2024-12-26
+R00375,Vitrines Milano,STALE_ACCOUNT,last_contact_date,mineur,Aucun contact depuis plus de 18 mois,2024-12-23
+R00220,Digital London,MISSING_PHONE,phone,majeur,Champ obligatoire manquant : phone,
+R00220,Digital London,STALE_ACCOUNT,last_contact_date,mineur,Aucun contact depuis plus de 18 mois,2025-03-19
+R00130,Events Dubai,MISSING_PHONE,phone,majeur,Champ obligatoire manquant : phone,
+R00376,Events Dubai,MISSING_EMAIL,email,majeur,Champ obligatoire manquant : email,
+R00376,Events Dubai,STALE_ACCOUNT,last_contact_date,mineur,Aucun contact depuis plus de 18 mois,2024-09-27
+R00315,Events Dubai,MISSING_EMAIL,email,majeur,Champ obligatoire manquant : email,
+R00292,PLV Paris,STALE_ACCOUNT,last_contact_date,mineur,Aucun contact depuis plus de 18 mois,2025-01-29
+R00184,Digital London,STALE_ACCOUNT,last_contact_date,mineur,Aucun contact depuis plus de 18 mois,2024-08-26
+R00317,PLV Paris,INVALID_EMAIL,email,bloquant,Format d'email invalide,sarah.chevaliermaisoncorbel.com
+R00303,Events Dubai,MISSING_EMAIL,email,majeur,Champ obligatoire manquant : email,
+R00113,Vitrines Milano,MISSING_SEGMENT,segment,mineur,Champ obligatoire manquant : segment,
+R00394,Events Dubai,STALE_ACCOUNT,last_contact_date,mineur,Aucun contact depuis plus de 18 mois,2024-12-02
+R00302,Digital London,STALE_ACCOUNT,last_contact_date,mineur,Aucun contact depuis plus de 18 mois,2024-09-27
+R00323,Print Lyon,MISSING_EMAIL,email,majeur,Champ obligatoire manquant : email,
+R00321,PLV Paris,STALE_ACCOUNT,last_contact_date,mineur,Aucun contact depuis plus de 18 mois,2025-05-20
+R00234,PLV Paris,MISSING_PHONE,phone,majeur,Champ obligatoire manquant : phone,
+R00234,PLV Paris,INVALID_PHONE,phone_raw,majeur,Téléphone non convertible au format international,03381
+R00234,PLV Paris,STALE_ACCOUNT,last_contact_date,mineur,Aucun contact depuis plus de 18 mois,2024-07-02
+R00419,Vitrines Milano,STALE_ACCOUNT,last_contact_date,mineur,Aucun contact depuis plus de 18 mois,2024-12-02
+R00165,Digital London,STALE_ACCOUNT,last_contact_date,mineur,Aucun contact depuis plus de 18 mois,2024-06-08
+R00259,Vitrines Milano,STALE_ACCOUNT,last_contact_date,mineur,Aucun contact depuis plus de 18 mois,2024-10-16
+R00233,Events Dubai,STALE_ACCOUNT,last_contact_date,mineur,Aucun contact depuis plus de 18 mois,2025-02-15
+R00121,Events Dubai,MISSING_EMAIL,email,majeur,Champ obligatoire manquant : email,
+R00369,Digital London,MISSING_EMAIL,email,majeur,Champ obligatoire manquant : email,
+R00108,PLV Paris,STALE_ACCOUNT,last_contact_date,mineur,Aucun contact depuis plus de 18 mois,2025-04-23
+R00332,Events Dubai,MISSING_PHONE,phone,majeur,Champ obligatoire manquant : phone,
+R00325,PLV Paris,STALE_ACCOUNT,last_contact_date,mineur,Aucun contact depuis plus de 18 mois,2024-09-26
+R00066,PLV Paris,INVALID_EMAIL,email,bloquant,Format d'email invalide,ines.roux@@ateliernoor.com
+R00284,PLV Paris,STALE_ACCOUNT,last_contact_date,mineur,Aucun contact depuis plus de 18 mois,2025-01-01
+R00086,Vitrines Milano,STALE_ACCOUNT,last_contact_date,mineur,Aucun contact depuis plus de 18 mois,2025-05-01
+R00243,Vitrines Milano,STALE_ACCOUNT,last_contact_date,mineur,Aucun contact depuis plus de 18 mois,2024-09-01
+R00187,Digital London,STALE_ACCOUNT,last_contact_date,mineur,Aucun contact depuis plus de 18 mois,2025-05-09
+R00160,Events Dubai,MISSING_SEGMENT,segment,mineur,Champ obligatoire manquant : segment,
+R00160,Events Dubai,STALE_ACCOUNT,last_contact_date,mineur,Aucun contact depuis plus de 18 mois,2024-08-02
+R00013,PLV Paris,STALE_ACCOUNT,last_contact_date,mineur,Aucun contact depuis plus de 18 mois,2025-01-07
+R00029,PLV Paris,STALE_ACCOUNT,last_contact_date,mineur,Aucun contact depuis plus de 18 mois,2024-08-05
+R00171,PLV Paris,MISSING_COUNTRY,country,mineur,Champ obligatoire manquant : country,
+R00143,PLV Paris,MISSING_EMAIL,email,majeur,Champ obligatoire manquant : email,
+R00356,PLV Paris,INVALID_SIRET,siret,majeur,SIRET invalide (14 chiffres + clé de Luhn),35348740164002
+R00356,PLV Paris,STALE_ACCOUNT,last_contact_date,mineur,Aucun contact depuis plus de 18 mois,2024-06-26
+R00222,Print Lyon,STALE_ACCOUNT,last_contact_date,mineur,Aucun contact depuis plus de 18 mois,2025-04-02
+R00385,Digital London,STALE_ACCOUNT,last_contact_date,mineur,Aucun contact depuis plus de 18 mois,2024-08-27
+R00179,PLV Paris,MISSING_SEGMENT,segment,mineur,Champ obligatoire manquant : segment,
+R00179,PLV Paris,STALE_ACCOUNT,last_contact_date,mineur,Aucun contact depuis plus de 18 mois,2025-02-23
+R00347,Print Lyon,STALE_ACCOUNT,last_contact_date,mineur,Aucun contact depuis plus de 18 mois,2024-11-30
+R00207,Events Dubai,INVALID_EMAIL,email,bloquant,Format d'email invalide,adam.rossicoutureardent.com
+R00370,PLV Paris,MISSING_EMAIL,email,majeur,Champ obligatoire manquant : email,
+R00370,PLV Paris,STALE_ACCOUNT,last_contact_date,mineur,Aucun contact depuis plus de 18 mois,2025-04-05
+R00005,Events Dubai,STALE_ACCOUNT,last_contact_date,mineur,Aucun contact depuis plus de 18 mois,2024-09-10
+R00172,Vitrines Milano,MISSING_PHONE,phone,majeur,Champ obligatoire manquant : phone,
+R00172,Vitrines Milano,INVALID_PHONE,phone_raw,majeur,Téléphone non convertible au format international,04596
+R00099,Events Dubai,STALE_ACCOUNT,last_contact_date,mineur,Aucun contact depuis plus de 18 mois,2025-04-11
+R00216,Vitrines Milano,MISSING_EMAIL,email,majeur,Champ obligatoire manquant : email,
+R00033,Digital London,STALE_ACCOUNT,last_contact_date,mineur,Aucun contact depuis plus de 18 mois,2025-03-09
+R00268,PLV Paris,STALE_ACCOUNT,last_contact_date,mineur,Aucun contact depuis plus de 18 mois,2024-10-01
+R00201,Vitrines Milano,STALE_ACCOUNT,last_contact_date,mineur,Aucun contact depuis plus de 18 mois,2024-09-01
+R00028,Vitrines Milano,MISSING_PHONE,phone,majeur,Champ obligatoire manquant : phone,
+R00028,Vitrines Milano,MISSING_COUNTRY,country,mineur,Champ obligatoire manquant : country,
+R00028,Vitrines Milano,INVALID_PHONE,phone_raw,majeur,Téléphone non convertible au format international,06.67.73.78.26
+R00028,Vitrines Milano,STALE_ACCOUNT,last_contact_date,mineur,Aucun contact depuis plus de 18 mois,2024-11-20
+R00261,PLV Paris,STALE_ACCOUNT,last_contact_date,mineur,Aucun contact depuis plus de 18 mois,2025-04-28
+R00289,Print Lyon,STALE_ACCOUNT,last_contact_date,mineur,Aucun contact depuis plus de 18 mois,2024-10-09
+R00139,Digital London,MISSING_EMAIL,email,majeur,Champ obligatoire manquant : email,
+R00139,Digital London,STALE_ACCOUNT,last_contact_date,mineur,Aucun contact depuis plus de 18 mois,2024-08-19
+R00136,PLV Paris,MISSING_PHONE,phone,majeur,Champ obligatoire manquant : phone,
+R00136,PLV Paris,INVALID_PHONE,phone_raw,majeur,Téléphone non convertible au format international,03223
+R00136,PLV Paris,STALE_ACCOUNT,last_contact_date,mineur,Aucun contact depuis plus de 18 mois,2025-04-01
+R00129,Vitrines Milano,STALE_ACCOUNT,last_contact_date,mineur,Aucun contact depuis plus de 18 mois,2024-12-12
+R00009,Print Lyon,STALE_ACCOUNT,last_contact_date,mineur,Aucun contact depuis plus de 18 mois,2024-12-13
+R00327,Print Lyon,FUTURE_CONTACT_DATE,last_contact_date,majeur,Date de dernier contact dans le futur,2027-12-25
+R00301,Print Lyon,STALE_ACCOUNT,last_contact_date,mineur,Aucun contact depuis plus de 18 mois,2025-03-25
+R00015,Digital London,STALE_ACCOUNT,last_contact_date,mineur,Aucun contact depuis plus de 18 mois,2025-02-11
+R00217,Events Dubai,STALE_ACCOUNT,last_contact_date,mineur,Aucun contact depuis plus de 18 mois,2025-03-21
+R00338,Print Lyon,MISSING_EMAIL,email,majeur,Champ obligatoire manquant : email,
+R00208,Print Lyon,STALE_ACCOUNT,last_contact_date,mineur,Aucun contact depuis plus de 18 mois,2025-01-23
+R00252,PLV Paris,STALE_ACCOUNT,last_contact_date,mineur,Aucun contact depuis plus de 18 mois,2025-03-23
+R00435,Print Lyon,STALE_ACCOUNT,last_contact_date,mineur,Aucun contact depuis plus de 18 mois,2024-10-01
+R00351,Events Dubai,MISSING_SEGMENT,segment,mineur,Champ obligatoire manquant : segment,
+R00202,PLV Paris,STALE_ACCOUNT,last_contact_date,mineur,Aucun contact depuis plus de 18 mois,2024-12-06
+R00162,Events Dubai,MISSING_SEGMENT,segment,mineur,Champ obligatoire manquant : segment,
+R00218,Events Dubai,MISSING_PHONE,phone,majeur,Champ obligatoire manquant : phone,
+R00191,Digital London,STALE_ACCOUNT,last_contact_date,mineur,Aucun contact depuis plus de 18 mois,2025-05-06
+R00310,Vitrines Milano,STALE_ACCOUNT,last_contact_date,mineur,Aucun contact depuis plus de 18 mois,2024-12-10
+R00260,Vitrines Milano,MISSING_SEGMENT,segment,mineur,Champ obligatoire manquant : segment,
+R00106,Digital London,MISSING_PHONE,phone,majeur,Champ obligatoire manquant : phone,
+R00106,Digital London,STALE_ACCOUNT,last_contact_date,mineur,Aucun contact depuis plus de 18 mois,2025-05-08
+R00054,Digital London,STALE_ACCOUNT,last_contact_date,mineur,Aucun contact depuis plus de 18 mois,2024-09-23
+R00430,Digital London,STALE_ACCOUNT,last_contact_date,mineur,Aucun contact depuis plus de 18 mois,2024-11-20
+R00050,Events Dubai,STALE_ACCOUNT,last_contact_date,mineur,Aucun contact depuis plus de 18 mois,2024-12-29
+R00206,Vitrines Milano,MISSING_COUNTRY,country,mineur,Champ obligatoire manquant : country,
+R00206,Vitrines Milano,STALE_ACCOUNT,last_contact_date,mineur,Aucun contact depuis plus de 18 mois,2024-08-18
+R00035,Digital London,MISSING_EMAIL,email,majeur,Champ obligatoire manquant : email,
+R00035,Digital London,STALE_ACCOUNT,last_contact_date,mineur,Aucun contact depuis plus de 18 mois,2025-03-13
+R00264,Vitrines Milano,FUTURE_CONTACT_DATE,last_contact_date,majeur,Date de dernier contact dans le futur,2027-09-28
+R00092,Events Dubai,MISSING_EMAIL,email,majeur,Champ obligatoire manquant : email,
+R00340,Events Dubai,MISSING_PHONE,phone,majeur,Champ obligatoire manquant : phone,
+R00340,Events Dubai,MISSING_COUNTRY,country,mineur,Champ obligatoire manquant : country,
+R00340,Events Dubai,INVALID_PHONE,phone_raw,majeur,Téléphone non convertible au format international,06.13.87.59.27
+R00053,Print Lyon,MISSING_PHONE,phone,majeur,Champ obligatoire manquant : phone,
+R00265,Print Lyon,STALE_ACCOUNT,last_contact_date,mineur,Aucun contact depuis plus de 18 mois,2025-03-23
+R00242,Vitrines Milano,MISSING_PHONE,phone,majeur,Champ obligatoire manquant : phone,
+R00014,Print Lyon,STALE_ACCOUNT,last_contact_date,mineur,Aucun contact depuis plus de 18 mois,2025-03-27
+R00316,Print Lyon,INVALID_EMAIL,email,bloquant,Format d'email invalide,lea.bernardhorlogerievasseur.com
+R00089,Events Dubai,STALE_ACCOUNT,last_contact_date,mineur,Aucun contact depuis plus de 18 mois,2025-01-25
+R00388,Print Lyon,MISSING_COUNTRY,country,mineur,Champ obligatoire manquant : country,
+R00167,Digital London,STALE_ACCOUNT,last_contact_date,mineur,Aucun contact depuis plus de 18 mois,2024-10-26
+R00329,Print Lyon,MISSING_SEGMENT,segment,mineur,Champ obligatoire manquant : segment,
+R00135,Digital London,MISSING_PHONE,phone,majeur,Champ obligatoire manquant : phone,
+R00307,Vitrines Milano,STALE_ACCOUNT,last_contact_date,mineur,Aucun contact depuis plus de 18 mois,2025-02-03
+R00428,Digital London,STALE_ACCOUNT,last_contact_date,mineur,Aucun contact depuis plus de 18 mois,2025-05-02
+R00320,PLV Paris,STALE_ACCOUNT,last_contact_date,mineur,Aucun contact depuis plus de 18 mois,2024-10-31
+R00055,PLV Paris,MISSING_PHONE,phone,majeur,Champ obligatoire manquant : phone,
+R00364,Digital London,STALE_ACCOUNT,last_contact_date,mineur,Aucun contact depuis plus de 18 mois,2024-10-20
+R00188,Events Dubai,STALE_ACCOUNT,last_contact_date,mineur,Aucun contact depuis plus de 18 mois,2025-05-02
+R00170,Events Dubai,MISSING_EMAIL,email,majeur,Champ obligatoire manquant : email,
+R00049,Print Lyon,MISSING_PHONE,phone,majeur,Champ obligatoire manquant : phone,
+R00049,Print Lyon,INVALID_PHONE,phone_raw,majeur,Téléphone non convertible au format international,09046
+R00345,PLV Paris,STALE_ACCOUNT,last_contact_date,mineur,Aucun contact depuis plus de 18 mois,2024-07-26
+R00236,Events Dubai,STALE_ACCOUNT,last_contact_date,mineur,Aucun contact depuis plus de 18 mois,2025-03-28
+R00344,Digital London,STALE_ACCOUNT,last_contact_date,mineur,Aucun contact depuis plus de 18 mois,2024-10-10
+R00258,PLV Paris,STALE_ACCOUNT,last_contact_date,mineur,Aucun contact depuis plus de 18 mois,2024-10-09
+R00150,Digital London,MISSING_PHONE,phone,majeur,Champ obligatoire manquant : phone,
+R00152,Events Dubai,MISSING_COUNTRY,country,mineur,Champ obligatoire manquant : country,
+R00100,Digital London,MISSING_PHONE,phone,majeur,Champ obligatoire manquant : phone,
+R00373,Vitrines Milano,STALE_ACCOUNT,last_contact_date,mineur,Aucun contact depuis plus de 18 mois,2024-10-31
+R00088,Print Lyon,MISSING_COUNTRY,country,mineur,Champ obligatoire manquant : country,
+R00088,Print Lyon,STALE_ACCOUNT,last_contact_date,mineur,Aucun contact depuis plus de 18 mois,2025-02-08
+R00215,Events Dubai,STALE_ACCOUNT,last_contact_date,mineur,Aucun contact depuis plus de 18 mois,2024-06-26
+R00021,Events Dubai,FUTURE_CONTACT_DATE,last_contact_date,majeur,Date de dernier contact dans le futur,2027-05-26
+R00189,Vitrines Milano,STALE_ACCOUNT,last_contact_date,mineur,Aucun contact depuis plus de 18 mois,2024-11-20
+R00107,Digital London,MISSING_EMAIL,email,majeur,Champ obligatoire manquant : email,
+R00271,PLV Paris,STALE_ACCOUNT,last_contact_date,mineur,Aucun contact depuis plus de 18 mois,2024-09-27
+R00349,PLV Paris,MISSING_PHONE,phone,majeur,Champ obligatoire manquant : phone,
+R00349,PLV Paris,INVALID_PHONE,phone_raw,majeur,Téléphone non convertible au format international,05059
+R00103,Digital London,MISSING_EMAIL,email,majeur,Champ obligatoire manquant : email,

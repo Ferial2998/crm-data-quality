@@ -1,0 +1,393 @@
+golden_id,company_name,contact_first_name,contact_last_name,email,phone,country,city,segment,account_type,siret,annual_revenue_eur,last_contact_date,subsidiaries,n_sources,source_records,needs_review
+G00001,Maison Aurèle,Claire,Mansouri,claire.mansouri@maisonaurele.com,+39434216073,IT,Milano,Vins & spiritueux,Prospect,,,2024-09-13,Digital London,1,R00001,False
+G00002,Maison Aurèle,Julien,Fontaine,julien.fontaine@maisonaurele.com,+39358685014,IT,Milano,Vins & spiritueux,Prospect,,11300000.0,2025-12-22,Vitrines Milano,1,R00002,False
+G00003,Cuirs Fontvieille,Amira,Girard,amira.girard@cuirsfontvieille.com,+33734060883,FR,Paris,Haute couture,Client,79911838425134,68200000.0,2025-03-13,Events Dubai,1,R00003,False
+G00004,Maison Sarrazin,Sofia,Lefèvre,sofia.lefevre@maisonsarrazin.com,,FR,Lyon,Haute couture,Prospect,81219136193990,,2025-06-22,Vitrines Milano,1,R00004,True
+G00005,Studio Elara,Julien,Girard,julien.girard@studioelara.com,+33777738721,FR,Lyon,Maroquinerie,Prospect,71012269166970,,2024-09-10,Events Dubai,1,R00005,False
+G00006,Maison Ophélie,Julien,Dubois,julien.dubois@maisonophelie.com,+33791769367,FR,Grasse,Vins & spiritueux,Client,83503056413951,,2026-10-29,PLV Paris,1,R00006,False
+G00007,Maison Albane,Lucas,Laurent,lucas.laurent@maisonalbane.com,+33731727889,FR,Lyon,Horlogerie,Prospect,84980841241187,83600000.0,2027-05-06,Events Dubai,1,R00007,False
+G00008,Atelier Saphir,Claire,Bonnet,claire.bonnet@ateliersaphir.com,+44448734714,GB,London,Joaillerie,Prospect,,,2025-08-20,Vitrines Milano,1,R00008,False
+G00009,Horlogerie Vasseur,Hugo,Fontaine,hugo.fontaine@horlogerievasseur.com,+33766587603,FR,Paris,Haute couture,Prospect,34131647525537,,2024-12-13,Print Lyon,1,R00009,False
+G00010,Couture Ardent,Camille,Roux,camille.roux@coutureardent.com,+33788937346,FR,Lyon,Vins & spiritueux,Prospect,99737631165668,34600000.0,2026-01-22,Digital London,1,R00010,False
+G00011,Galerie Mirabeau,Mehdi,Dubois,mehdi.dubois@galeriemirabeau.com,+33699016272,FR,Lyon,Vins & spiritueux,Client,42786801128053,,2025-02-24,Events Dubai,1,R00011,False
+G00012,Maison Valmont Rive,Amira,Fontaine,amira.fontaine@maisonvalmontrive.com,+33670805310,FR,Paris,Vins & spiritueux,Client,18451462704821,,2026-02-12,Digital London,1,R00012,False
+G00013,Maison Ophélie,Yasmine,Bonnet,yasmine.bonnet@maisonophelie.com,+33774529912,FR,Grasse,Vins & spiritueux,Prospect,83503056413951,2800000.0,2025-01-07,PLV Paris,1,R00013,False
+G00014,Joaillerie Iskander,Julien,Haddad,julien.haddad@joaillerieiskander.com,+33691905865,FR,Grasse,Parfums & cosmétiques,Client,30391171822783,87100000.0,2025-03-27,Print Lyon,1,R00014,False
+G00015,Parfums d'Orsay Lune,Lucas,Roux,lucas.roux@parfumsdorsaylune.com,+33728498776,FR,Grasse,Parfums & cosmétiques,Prospect,94078161849594,,2025-02-11,Digital London,1,R00015,False
+G00016,Atelier Saphir,Mehdi,Laurent,mehdi.laurent@ateliersaphir.com,+44665075273,GB,London,Joaillerie,Prospect,,28800000.0,2024-10-16,Digital London,1,R00016,False
+G00017,Brume de Grasse,Julien,Haddad,julien.haddad@brumedegrasse.com,+33677701436,FR,Paris,Vins & spiritueux,Prospect,10651333872628,37900000.0,2026-03-21,Digital London,1,R00017,False
+G00018,Parfums Céleste,Adam,Mansouri,,+33631351823,FR,Bordeaux,Joaillerie,Client,83465787133151,74300000.0,2025-11-28,Digital London,1,R00018,True
+G00019,Galerie Mirabeau,Julien,Lefèvre,julien.lefevre@galeriemirabeau.com,+33782400842,FR,Lyon,Vins & spiritueux,Client,42786801128053,58900000.0,2026-04-05,Vitrines Milano,1,R00019,False
+G00020,Couture Ardent,Mehdi,Mansouri,mehdi.mansouri@coutureardent.com,+33611671902,FR,Lyon,Vins & spiritueux,Client,99737631165668,,2027-03-04,PLV Paris,1,R00020,False
+G00021,Lumen Paris,Rayan,Laurent,rayan.laurent@lumenparis.com,+33649649909,FR,Bordeaux,Parfums & cosmétiques,Client,74687234309800,,2027-05-26,Events Dubai,1,R00021,False
+G00022,Maison Ophélie,Claire,Khelifi,claire.khelifi@maisonophelie.com,+33697403447,FR,Grasse,Vins & spiritueux,Client,83503056413951,,2026-09-08,Print Lyon,1,R00022,False
+G00023,Parfums d'Orsay Lune,Adam,Laurent,adam.laurent@parfumsdorsaylune.com,+33610249947,FR,Grasse,Parfums & cosmétiques,Prospect,94078161849594,71800000.0,2025-01-29,"PLV Paris, Print Lyon",2,"R00023, R00439",False
+G00024,Brume de Grasse,Adam,Bonnet,adam.bonnet@brumedegrasse.com,+33659401399,FR,Paris,Vins & spiritueux,Prospect,10651333872628,,2025-09-01,PLV Paris,1,R00024,False
+G00025,Brume de Grasse,Mehdi,Garcia,mehdi.garcia@brumedegrasse.com,+33717565512,FR,Paris,Vins & spiritueux,Prospect,10651333872629,29700000.0,2026-05-22,Events Dubai,1,R00025,False
+G00026,Maison Héloïse,Inès,Mansouri,ines.mansouri@maisonheloise.com,+33780876038,FR,Lyon,Maroquinerie,Client,30103105183475,,2026-03-10,"Events Dubai, Vitrines Milano",2,"R00026, R00423",False
+G00027,Cristal Montaigne,Adam,Dubois,adam.dubois@cristalmontaigne.com,+33710932480,FR,Bordeaux,Horlogerie,Prospect,72423884969657,,2026-02-02,Digital London,1,R00027,False
+G00028,Parfums d'Orsay Lune,Yasmine,Bonnet,yasmine.bonnet@parfumsdorsaylune.com,,,Grasse,Parfums & cosmétiques,Prospect,94078161849594,28400000.0,2024-11-20,Vitrines Milano,1,R00028,True
+G00029,Parfums Ombrelle,Emma,Garcia,emma.garcia@parfumsombrelle.com,+41699727875,CH,Genève,Horlogerie,Client,,,2024-08-05,PLV Paris,1,R00029,False
+G00030,Maison Corbel,Nora,Laurent,nora.laurent@maisoncorbel.com,,AE,Dubai,Joaillerie,Client,,10400000.0,2024-06-30,Digital London,1,R00030,True
+G00031,Cuirs Fontvieille,Yasmine,Girard,yasmine.girard@cuirsfontvieille.com,+33759615865,FR,Paris,Haute couture,Client,79911838425134,,2024-06-15,Print Lyon,1,R00031,False
+G00032,Maison Ophélie,Inès,Girard,ines.girard@maisonophelie.com,+33740050455,FR,Grasse,Vins & spiritueux,Prospect,83503056413951,54500000.0,2026-08-15,PLV Paris,1,R00032,False
+G00033,Maroquinerie Belcourt,Claire,Haddad,claire.haddad@maroquineriebelcourt.com,+39179237474,IT,Milano,Maroquinerie,Prospect,,,2025-03-09,Digital London,1,R00033,False
+G00034,Maison Héloïse,Chloé,Lefèvre,chloe.lefevre@maisonheloise.com,+33743671369,FR,Lyon,Maroquinerie,Prospect,30103105183475,2400000.0,2025-02-07,Digital London,1,R00034,False
+G00035,Maison Aurèle,Louise,Bernard,,+39239533942,IT,Milano,Vins & spiritueux,Prospect,,80900000.0,2025-03-13,Digital London,1,R00035,True
+G00036,Maison Corbel,Chloé,Dubois,chloe.dubois@maisoncorbel.com,+971323285884,AE,Dubai,Joaillerie,Client,,82700000.0,2026-08-23,Vitrines Milano,1,R00036,False
+G00037,Esprit Riviera,Sofia,Chevalier,sofia.chevalier@espritriviera.com,+33668516048,FR,Grasse,Maroquinerie,Prospect,35348740164001,69000000.0,2026-09-07,"Print Lyon, Vitrines Milano",2,"R00037, R00436",False
+G00038,Galerie Mirabeau,Chloé,Rossi,chloe.rossi@galeriemirabeau.com,,FR,Lyon,Vins & spiritueux,Prospect,42786801128053,4000000.0,2025-01-01,Print Lyon,1,R00038,True
+G00039,Parfums d'Orsay Lune,Sofia,Laurent,,+33786926179,FR,Grasse,Parfums & cosmétiques,Client,94078161849594,70800000.0,2025-05-22,Print Lyon,1,R00039,True
+G00040,Maison Héloïse,Mehdi,Laurent,mehdi.laurent@maisonheloise.com,+33758506431,FR,Lyon,Maroquinerie,Client,30103105183475,,2024-07-01,Vitrines Milano,1,R00040,False
+G00041,Esprit Riviera,Amira,Laurent,amira.laurent@espritriviera.com,+33739335290,FR,Grasse,Maroquinerie,Client,35348740164001,55500000.0,2026-07-18,"Events Dubai, Vitrines Milano",2,"R00041, R00417",False
+G00042,Parfums d'Orsay Lune,Camille,Dubois,camille.dubois@parfumsdorsaylune.com,+33695024026,FR,Grasse,Parfums & cosmétiques,Prospect,94078161849594,46100000.0,2026-11-08,Vitrines Milano,1,R00042,False
+G00043,Maison Héloïse,Emma,Laurent,emma.laurent@maisonheloise.com,+33684700766,FR,Lyon,Maroquinerie,Prospect,30103105183475,,2025-03-04,PLV Paris,1,R00043,False
+G00044,Lumen Paris,Yasmine,Haddad,yasmine.haddad@lumenparis.com,+33785698478,FR,Bordeaux,Parfums & cosmétiques,Prospect,74687234309800,,2026-07-17,Vitrines Milano,1,R00044,False
+G00045,Maison Héloïse,Hugo,Girard,hugo.girard@maisonheloise.com,+33615654527,FR,Lyon,Maroquinerie,Client,30103105183475,9700000.0,2025-12-11,Digital London,1,R00045,False
+G00046,Cuirs Fontvieille,Chloé,Dubois,chloe.dubois@cuirsfontvieille.com,+33785165604,FR,Paris,Haute couture,Prospect,79911838425134,,2025-05-03,PLV Paris,1,R00046,False
+G00047,Maison Sarrazin,Sarah,Laurent,sarah.laurent@maisonsarrazin.com,+33651493689,FR,Lyon,Haute couture,Client,81219136193990,18600000.0,2024-07-09,PLV Paris,1,R00047,False
+G00048,Parfums Ombrelle,Amira,Roux,amira.roux@parfumsombrelle.com,+41761201836,CH,Genève,Horlogerie,Prospect,,16300000.0,2026-11-17,"Digital London, Print Lyon",2,"R00048, R00414",False
+G00049,Cuirs Fontvieille,Amira,Haddad,amira.haddad@cuirsfontvieille.com,,FR,Paris,Haute couture,Client,79911838425134,,2026-10-01,Print Lyon,1,R00049,True
+G00050,Parfums Céleste,Sofia,Lefèvre,sofia.lefevre@parfumsceleste.com,+33740369003,FR,Bordeaux,Joaillerie,Prospect,83465787133151,78400000.0,2024-12-29,Events Dubai,1,R00050,False
+G00051,Maison Valmont Rive,Sofia,Martin,sofia.martin@maisonvalmontrive.com,+33783885160,FR,Paris,Vins & spiritueux,Client,18451462704821,8100000.0,2025-07-02,Digital London,1,R00051,False
+G00052,Maison Corbel,Nora,Girard,nora.girard@maisoncorbel.com,+971729751613,AE,Dubai,Joaillerie,Prospect,,8200000.0,2026-01-31,PLV Paris,1,R00052,False
+G00053,Cuirs Fontvieille,Amira,Laurent,amira.laurent@cuirsfontvieille.com,,FR,Paris,Haute couture,Client,79911838425134,,2025-12-17,Print Lyon,1,R00053,True
+G00054,Maison Albane,Inès,Benali,ines.benali@maisonalbane.com,+33697995527,FR,Lyon,Horlogerie,Prospect,84980841241187,64800000.0,2024-09-23,Digital London,1,R00054,False
+G00055,Maison Corbel,Léa,Roux,lea.roux@maisoncorbel.com,,AE,Dubai,Joaillerie,Client,,,2025-06-22,PLV Paris,1,R00055,True
+G00056,Parfums Ombrelle,Louise,Moreau,louise.moreau@parfumsombrelle.com,,CH,Genève,Horlogerie,Prospect,,,2025-12-29,Events Dubai,1,R00056,True
+G00057,Atelier Noor,Thomas,Fontaine,,+33651518644,FR,Paris,Vins & spiritueux,Prospect,48932528809575,,2025-10-01,Vitrines Milano,1,R00057,True
+G00058,Studio Elara,Nora,Dubois,nora.dubois@studioelara.com,+33752816850,FR,Lyon,Maroquinerie,Client,71012269166970,22100000.0,2025-03-24,PLV Paris,1,R00058,False
+G00059,Domaine Saint-Alban,Hugo,Dubois,hugo.dubois@domainesaint-alban.com,+39788805929,IT,Milano,Joaillerie,Client,,,2026-06-18,PLV Paris,1,R00059,False
+G00060,Atelier Solenne,Lucas,Roux,lucas.roux@ateliersolenne.com,,FR,Lyon,Joaillerie,Prospect,18196001338900,78900000.0,2024-12-31,Print Lyon,1,R00060,True
+G00061,Brume de Grasse,Emma,Girard,emma.girard@brumedegrasse.com,+33740758181,FR,Paris,,Prospect,10651333872628,28100000.0,2026-06-11,Print Lyon,1,R00061,False
+G00062,Galerie Mirabeau,Lucas,Haddad,lucas.haddad@galeriemirabeau.com,+33760685361,FR,Lyon,Vins & spiritueux,Prospect,42786801128053,,2026-04-10,Digital London,1,R00062,False
+G00063,Esprit Riviera,Yasmine,Dubois,yasmine.dubois@espritriviera.com,+33627790104,FR,Grasse,Maroquinerie,Prospect,35348740164001,74600000.0,2026-10-15,Vitrines Milano,1,R00063,False
+G00064,Maison Albane,Thomas,Laurent,thomas.laurent@maisonalbane.com,+33697117980,FR,Lyon,Horlogerie,Client,84980841241187,,2026-01-19,PLV Paris,1,R00064,False
+G00065,Maison Ophélie,Louise,Girard,louise.girard@maisonophelie.com,+33718888806,FR,Grasse,Vins & spiritueux,Prospect,83503056413951,38400000.0,2026-05-16,PLV Paris,1,R00065,False
+G00066,Atelier Noor,Inès,Roux,,+33752058527,FR,Paris,Vins & spiritueux,Prospect,48932528809575,6600000.0,2026-03-22,PLV Paris,1,R00066,True
+G00067,Studio Elara,Julien,Bernard,julien.bernard@studioelara.com,+33748687403,FR,Lyon,Maroquinerie,Prospect,71012269166970,88800000.0,2024-09-04,Print Lyon,1,R00067,False
+G00068,Parfums d'Orsay Lune,Chloé,Girard,chloe.girard@parfumsdorsaylune.com,+33752775841,FR,Grasse,Parfums & cosmétiques,Prospect,94078161849594,,2025-10-10,"Digital London, Events Dubai",2,"R00068, R00411",False
+G00069,Maison Valmont Rive,Sofia,Haddad,sofia.haddad@maisonvalmontrive.com,+33762757059,FR,Paris,Vins & spiritueux,Client,18451462704821,7800000.0,2025-12-23,Vitrines Milano,1,R00069,False
+G00070,Brume de Grasse,Claire,Martin,claire.martin@brumedegrasse.com,+33602135569,FR,Paris,Vins & spiritueux,Prospect,10651333872628,38100000.0,2026-06-30,"Digital London, Events Dubai",2,"R00070, R00418",False
+G00071,Maison Albane,Inès,Dubois,ines.dubois@maisonalbane.com,+33643102786,FR,Lyon,Horlogerie,Client,84980841241187,72200000.0,2025-05-30,Vitrines Milano,1,R00071,False
+G00072,Lumen Paris,Thomas,Bonnet,thomas.bonnet@lumenparis.com,+33772715518,FR,Bordeaux,Parfums & cosmétiques,Client,74687234309800,,2026-05-03,PLV Paris,1,R00072,False
+G00073,Brume de Grasse,Hugo,Rossi,hugo.rossi@brumedegrasse.com,+33605895782,FR,Paris,Vins & spiritueux,Client,10651333872628,40900000.0,2026-05-02,Print Lyon,1,R00073,False
+G00074,Maison Albane,Lucas,Haddad,,+33778528922,FR,Lyon,Horlogerie,Prospect,84980841241187,,2026-07-18,Vitrines Milano,1,R00074,True
+G00075,Maroquinerie Belcourt,Claire,Mansouri,claire.mansouri@maroquineriebelcourt.com,+39941438424,IT,Milano,Maroquinerie,Client,,,2024-11-27,"Events Dubai, Print Lyon",2,"R00075, R00432",False
+G00076,Maroquinerie Belcourt,Rayan,Mansouri,,+39110943969,IT,Milano,Maroquinerie,Client,,56000000.0,2024-07-14,Events Dubai,1,R00076,True
+G00077,Couture Ardent,Hugo,Fontaine,hugo.fontaine@coutureardent.com,,FR,Lyon,Vins & spiritueux,Client,99737631165668,75300000.0,2026-01-23,Digital London,1,R00077,True
+G00078,Horlogerie Vasseur,Chloé,Meyer,chloe.meyer@horlogerievasseur.com,+33714732104,FR,Paris,,Client,34131647525537,,2025-04-27,PLV Paris,1,R00078,False
+G00079,Parfums Ombrelle,Louise,Mansouri,louise.mansouri@parfumsombrelle.com,+41877470168,CH,Genève,,Prospect,,59900000.0,2026-05-13,Print Lyon,1,R00079,False
+G00080,Atelier Solenne,Thomas,Bonnet,thomas.bonnet@ateliersolenne.com,+33716245650,FR,Lyon,Joaillerie,Client,18196001338901,,2025-03-22,Digital London,1,R00080,False
+G00081,Atelier Lisière,Thomas,Haddad,thomas.haddad@atelierlisiere.com,+33749912165,FR,Lyon,Haute couture,Prospect,78108013267735,20500000.0,2025-10-24,Events Dubai,1,R00081,False
+G00082,Atelier Solenne,Léa,Dubois,lea.dubois@ateliersolenne.com,+33730993842,FR,Lyon,Joaillerie,Prospect,18196001338900,75900000.0,2024-11-23,"PLV Paris, Vitrines Milano",2,"R00082, R00424",False
+G00083,Brume de Grasse,Emma,Khelifi,emma.khelifi@brumedegrasse.com,+33755169409,FR,Paris,Vins & spiritueux,Client,10651333872628,,2025-07-10,Events Dubai,1,R00083,False
+G00084,Maison Corbel,Sarah,Benali,sarah.benali@maisoncorbel.com,,AE,Dubai,Joaillerie,Prospect,,,2025-06-05,Events Dubai,1,R00084,True
+G00085,Brume de Grasse,Rayan,Bonnet,rayan.bonnet@brumedegrasse.com,+33738578652,FR,Paris,Vins & spiritueux,Prospect,10651333872629,36400000.0,2024-06-13,PLV Paris,1,R00085,False
+G00086,Domaine Saint-Alban,Hugo,Garcia,hugo.garcia@domainesaint-alban.com,+39543757584,IT,Milano,Joaillerie,Client,,69400000.0,2025-05-01,Vitrines Milano,1,R00086,False
+G00087,Galerie Mirabeau,Chloé,Dubois,chloe.dubois@galeriemirabeau.com,+33715747338,FR,Lyon,Vins & spiritueux,Client,42786801128053,,2026-01-30,PLV Paris,1,R00087,False
+G00088,Atelier Solenne,Emma,Laurent,emma.laurent@ateliersolenne.com,+33717797177,FR,Lyon,Joaillerie,Prospect,18196001338900,77600000.0,2025-05-09,"Digital London, Print Lyon",2,"R00088, R00187",False
+G00089,Studio Elara,Léa,Haddad,lea.haddad@studioelara.com,+33702620672,FR,Lyon,Maroquinerie,Client,71012269166970,,2025-01-25,Events Dubai,1,R00089,False
+G00090,Studio Elara,Mehdi,Khelifi,mehdi.khelifi@studioelara.com,+33787431527,FR,Lyon,Maroquinerie,Prospect,71012269166970,31200000.0,2026-08-26,"Digital London, Print Lyon",2,"R00090, R00330",False
+G00091,Maison Corbel,Julien,Benali,julien.benali@maisoncorbel.com,+971451612275,AE,Dubai,Joaillerie,Prospect,,,2025-03-08,"Digital London, Vitrines Milano",2,"R00091, R00339",False
+G00092,Maison Albane,Karim,Mansouri,,+33745301742,FR,Lyon,Horlogerie,Prospect,84980841241187,65600000.0,2026-01-18,Events Dubai,1,R00092,True
+G00093,Lumen Paris,Hugo,Laurent,hugo.laurent@lumenparis.com,+33695687833,FR,Bordeaux,Parfums & cosmétiques,Client,74687234309800,72200000.0,2026-07-10,Digital London,1,R00093,False
+G00094,Parfums Ombrelle,Louise,Rossi,louise.rossi@parfumsombrelle.com,+41498225871,CH,Genève,Horlogerie,Prospect,,52400000.0,2026-09-21,"Events Dubai, PLV Paris",2,"R00094, R00445",False
+G00095,Maison Héloïse,Yasmine,Meyer,yasmine.meyer@maisonheloise.com,+33674064039,FR,Lyon,Maroquinerie,Prospect,30103105183475,,2025-09-24,"Digital London, Print Lyon",2,"R00095, R00420",False
+G00096,Parfums Ombrelle,Inès,Bonnet,ines.bonnet@parfumsombrelle.com,+41365676618,CH,Genève,Horlogerie,Prospect,,18400000.0,2026-10-22,"PLV Paris, Vitrines Milano",2,"R00096, R00408",False
+G00097,Cuirs Fontvieille,Hugo,Martin,hugo.martin@cuirsfontvieille.com,+33686863375,FR,Paris,,Prospect,79911838425134,,2024-10-10,PLV Paris,1,R00097,False
+G00098,Esprit Riviera,Lucas,Martin,lucas.martin@espritriviera.com,+33607903067,FR,Grasse,Maroquinerie,Client,35348740164001,14500000.0,2026-03-22,"Digital London, Print Lyon",2,"R00098, R00438",False
+G00099,Galerie Mirabeau,Louise,Mansouri,louise.mansouri@galeriemirabeau.com,+33634283644,FR,Lyon,Vins & spiritueux,Prospect,42786801128053,57100000.0,2025-04-11,Events Dubai,1,R00099,False
+G00100,Atelier Noor,Nora,Meyer,nora.meyer@ateliernoor.com,,FR,Paris,Vins & spiritueux,Prospect,48932528809575,42400000.0,2026-01-01,Digital London,1,R00100,True
+G00101,Joaillerie Iskander,Hugo,Garcia,hugo.garcia@joaillerieiskander.com,+33651830469,FR,Grasse,Parfums & cosmétiques,Prospect,30391171822783,,2026-04-29,Vitrines Milano,1,R00101,False
+G00102,Domaine Saint-Alban,Amira,Lefèvre,amira.lefevre@domainesaint-alban.com,+39617393638,IT,Milano,Joaillerie,Prospect,,47900000.0,2026-11-08,Print Lyon,1,R00102,False
+G00103,Cristal Montaigne,Chloé,Meyer,,+33675355609,FR,Bordeaux,Horlogerie,Client,72423884969657,26900000.0,2025-07-02,Digital London,1,R00103,True
+G00104,Horlogerie Vasseur,Julien,Mansouri,julien.mansouri@horlogerievasseur.com,+33778547772,FR,Paris,Haute couture,Prospect,34131647525537,73900000.0,2026-04-02,Digital London,1,R00104,False
+G00105,Parfums Ombrelle,Adam,Bernard,adam.bernard@parfumsombrelle.com,+41400623120,CH,Genève,Horlogerie,Prospect,,6300000.0,2025-06-05,PLV Paris,1,R00105,False
+G00106,Maison Aurèle,Camille,Khelifi,camille.khelifi@maisonaurele.com,,IT,Milano,Vins & spiritueux,Client,,19800000.0,2025-05-08,Digital London,1,R00106,True
+G00107,Cristal Montaigne,Nora,Haddad,,+33734101666,FR,Bordeaux,Horlogerie,Prospect,72423884969657,,2025-11-06,Digital London,1,R00107,True
+G00108,Couture Ardent,Lucas,Mansouri,lucas.mansouri@coutureardent.com,+33633974014,FR,Lyon,Vins & spiritueux,Prospect,99737631165668,,2025-04-23,PLV Paris,1,R00108,False
+G00109,Maison Albane,Nora,Haddad,nora.haddad@maisonalbane.com,+33668562185,FR,Lyon,Horlogerie,Prospect,84980841241187,,2026-01-21,Print Lyon,1,R00109,False
+G00110,Lumen Paris,Rayan,Fontaine,rayan.fontaine@lumenparis.com,+33777358662,FR,Bordeaux,Parfums & cosmétiques,Client,74687234309800,,2024-09-22,Vitrines Milano,1,R00110,False
+G00111,Bijoux Castellane,Karim,Dubois,karim.dubois@bijouxcastellane.com,+33651104754,FR,Bordeaux,Joaillerie,Prospect,79402654235112,19300000.0,2025-10-30,Print Lyon,1,R00111,False
+G00112,Atelier Lisière,Adam,Meyer,,+33781995604,FR,Lyon,Haute couture,Client,78108013267735,,2025-10-02,PLV Paris,1,R00112,True
+G00113,Maison Sarrazin,Nora,Benali,nora.benali@maisonsarrazin.com,+33621264647,FR,Lyon,,Client,81219136193990,25400000.0,2026-07-04,Vitrines Milano,1,R00113,False
+G00114,Maison Héloïse,Sofia,Dubois,sofia.dubois@maisonheloise.com,+33796575692,FR,Lyon,Maroquinerie,Prospect,30103105183475,,2026-01-16,PLV Paris,1,R00114,False
+G00115,Maison Valmont Rive,Claire,Fontaine,claire.fontaine@maisonvalmontrive.com,+33679356465,FR,Paris,Vins & spiritueux,Prospect,18451462704821,,2026-01-01,Vitrines Milano,1,R00115,False
+G00116,Cuirs Fontvieille,Mehdi,Moreau,mehdi.moreau@cuirsfontvieille.com,+33767243426,FR,Paris,Haute couture,Prospect,79911838425134,61400000.0,2025-09-01,"Digital London, Vitrines Milano",2,"R00116, R00437",False
+G00117,Atelier Lisière,Emma,Girard,emma.girard@atelierlisiere.com,+33689113529,FR,Lyon,Haute couture,Prospect,78108013267735,81700000.0,2025-05-16,PLV Paris,1,R00117,False
+G00118,Maison Aurèle,Sofia,Garcia,,+39999375679,IT,Milano,Vins & spiritueux,Prospect,,2700000.0,2026-04-10,Events Dubai,1,R00118,True
+G00119,Studio Elara,Lucas,Haddad,lucas.haddad@studioelara.com,+33773875717,FR,Lyon,Maroquinerie,Client,71012269166970,,2026-07-28,"Print Lyon, Vitrines Milano",2,"R00119, R00403",False
+G00120,Maison Aurèle,Amira,Rossi,amira.rossi@maisonaurele.com,+39838282586,IT,Milano,Vins & spiritueux,Prospect,,,2024-12-30,Print Lyon,1,R00120,False
+G00121,Orfèvrerie Delmas,Lucas,Fontaine,,+44296603341,GB,London,Haute couture,Prospect,,,2026-10-25,Events Dubai,1,R00121,True
+G00122,Parfums d'Orsay Lune,Karim,Bonnet,karim.bonnet@parfumsdorsaylune.com,+33679647158,FR,Grasse,Parfums & cosmétiques,Prospect,94078161849594,,2026-09-16,"Events Dubai, Vitrines Milano",2,"R00122, R00333",False
+G00123,Studio Elara,Sofia,Benali,sofia.benali@studioelara.com,+33692966278,FR,Lyon,Maroquinerie,Prospect,71012269166970,,2025-11-06,Print Lyon,1,R00123,False
+G00124,Maison Valmont Rive,Mehdi,Bernard,,+33723688767,FR,Paris,Vins & spiritueux,Prospect,18451462704821,,2024-06-20,Vitrines Milano,1,R00124,True
+G00125,Esprit Riviera,Hugo,Lefèvre,,+33627978819,FR,Grasse,Maroquinerie,Client,35348740164001,84500000.0,2026-10-21,Vitrines Milano,1,R00125,True
+G00126,Maison Albane,Mehdi,Khelifi,mehdi.khelifi@maisonalbane.com,+33634074517,FR,Lyon,Horlogerie,Client,84980841241187,83200000.0,2026-04-14,Digital London,1,R00126,False
+G00127,Maroquinerie Belcourt,Rayan,Dubois,rayan.dubois@maroquineriebelcourt.com,+39595849825,IT,Milano,Maroquinerie,Prospect,,,2024-09-11,Print Lyon,1,R00127,False
+G00128,Maison Albane,Lucas,Bernard,lucas.bernard@maisonalbane.com,+33732536729,FR,Lyon,Horlogerie,Prospect,84980841241187,,2026-02-13,"Events Dubai, Print Lyon",2,"R00128, R00443",False
+G00129,Joaillerie Iskander,Emma,Garcia,emma.garcia@joaillerieiskander.com,+33759017518,FR,Grasse,Parfums & cosmétiques,Prospect,30391171822783,,2024-12-12,Vitrines Milano,1,R00129,False
+G00130,Cristal Montaigne,Amira,Lefèvre,amira.lefevre@cristalmontaigne.com,,FR,Bordeaux,Horlogerie,Prospect,72423884969657,200000.0,2025-12-13,Events Dubai,1,R00130,True
+G00131,Atelier Nacré,Yasmine,Lefèvre,yasmine.lefevre@ateliernacre.com,+33765754602,FR,Paris,Horlogerie,Client,99854353462478,,2026-06-14,"Digital London, Vitrines Milano",2,"R00131, R00444",False
+G00132,Bijoux Castellane,Yasmine,Laurent,,+33651627136,FR,Bordeaux,Joaillerie,Client,79402654235112,32200000.0,2025-06-10,Digital London,1,R00132,True
+G00133,Horlogerie Vasseur,Nora,Dubois,nora.dubois@horlogerievasseur.com,+33709275326,FR,Paris,Haute couture,Client,34131647525537,,2025-02-05,Print Lyon,1,R00133,False
+G00134,Maison Corbel,Nora,Roux,nora.roux@maisoncorbel.com,+971141389994,AE,Dubai,Joaillerie,Prospect,,,2025-09-10,Vitrines Milano,1,R00134,False
+G00135,Studio Elara,Léa,Laurent,lea.laurent@studioelara.com,,FR,Lyon,Maroquinerie,Client,71012269166970,,2025-07-05,Digital London,1,R00135,True
+G00136,Maison Albane,Inès,Martin,ines.martin@maisonalbane.com,,FR,Lyon,Horlogerie,Client,84980841241187,,2025-04-01,PLV Paris,1,R00136,True
+G00137,Bijoux Castellane,Thomas,Haddad,thomas.haddad@bijouxcastellane.com,+33685691463,FR,Bordeaux,Joaillerie,Prospect,79402654235112,,2025-06-18,Print Lyon,1,R00137,False
+G00138,Lumen Paris,Rayan,Bernard,rayan.bernard@lumenparis.com,+33620275884,FR,Bordeaux,Parfums & cosmétiques,Client,74687234309800,76900000.0,2026-01-11,Print Lyon,1,R00138,False
+G00139,Maison Albane,Camille,Mansouri,,+33749177850,FR,Lyon,Horlogerie,Client,84980841241187,16300000.0,2024-08-19,Digital London,1,R00139,True
+G00140,Atelier Saphir,Louise,Rossi,louise.rossi@ateliersaphir.com,+44930756220,GB,London,Joaillerie,Client,,,2026-04-04,Events Dubai,1,R00140,False
+G00141,Parfums Ombrelle,Amira,Garcia,,+41880238061,CH,Genève,Horlogerie,Prospect,,,2024-07-31,PLV Paris,1,R00141,True
+G00142,Maison Aurèle,Chloé,Moreau,chloe.moreau@maisonaurele.com,+39493759738,IT,Milano,Vins & spiritueux,Prospect,,,2026-01-29,Events Dubai,1,R00142,False
+G00143,Atelier Lisière,Chloé,Martin,,+33641383670,FR,Lyon,Haute couture,Prospect,78108013267735,,2025-12-15,PLV Paris,1,R00143,True
+G00144,Atelier Nacré,Chloé,Chevalier,chloe.chevalier@ateliernacre.com,+33626199062,FR,Paris,Horlogerie,Prospect,99854353462478,87300000.0,2024-10-19,PLV Paris,1,R00144,False
+G00145,Atelier Nacré,Amira,Mansouri,amira.mansouri@ateliernacre.com,+33729121277,FR,Paris,Horlogerie,Client,99854353462478,55000000.0,2025-08-17,Vitrines Milano,1,R00145,False
+G00146,Maison Héloïse,Thomas,Chevalier,thomas.chevalier@maisonheloise.com,+33749035213,FR,Lyon,Maroquinerie,Client,30103105183475,5200000.0,2026-02-25,PLV Paris,1,R00146,False
+G00147,Galerie Mirabeau,Claire,Martin,claire.martin@galeriemirabeau.com,+33631712100,FR,Lyon,Vins & spiritueux,Prospect,42786801128053,84500000.0,2026-12-28,Digital London,1,R00147,False
+G00148,Maison Sarrazin,Inès,Garcia,,+33637215107,FR,Lyon,Haute couture,Client,81219136193990,44500000.0,2024-08-13,PLV Paris,1,R00148,True
+G00149,Maison Aurèle,Nora,Girard,nora.girard@maisonaurele.com,+39444720999,IT,Milano,Vins & spiritueux,Client,,42300000.0,2026-05-31,Vitrines Milano,1,R00149,False
+G00150,Bijoux Castellane,Karim,Fontaine,karim.fontaine@bijouxcastellane.com,,FR,Bordeaux,Joaillerie,Client,79402654235112,,2026-07-06,Digital London,1,R00150,True
+G00151,Maison Valmont Rive,Rayan,Laurent,rayan.laurent@maisonvalmontrive.com,+33785932133,FR,Paris,Vins & spiritueux,Client,18451462704821,59100000.0,2026-10-24,Vitrines Milano,1,R00151,False
+G00152,Parfums Ombrelle,Claire,Benali,claire.benali@parfumsombrelle.com,+41459059929,,Genève,Horlogerie,Client,,,2026-03-26,Events Dubai,1,R00152,False
+G00153,Atelier Solenne,Inès,Bernard,ines.bernard@ateliersolenne.com,+33770593252,FR,Lyon,Joaillerie,Client,18196001338900,,2026-03-30,"Digital London, Events Dubai",2,"R00153, R00421",False
+G00154,Maison Ysolde,Emma,Roux,emma.roux@maisonysolde.com,+33769154522,FR,Lyon,Horlogerie,Prospect,20450533158690,18000000.0,2026-09-10,Vitrines Milano,1,R00154,False
+G00155,Maison Sarrazin,Louise,Benali,louise.benali@maisonsarrazin.com,+33722096902,FR,Lyon,Haute couture,Prospect,81219136193990,10800000.0,2025-11-01,Vitrines Milano,1,R00155,False
+G00156,Maison Valmont Rive,Inès,Laurent,ines.laurent@maisonvalmontrive.com,+33757043315,FR,Paris,Vins & spiritueux,Client,18451462704821,5100000.0,2025-12-03,Vitrines Milano,1,R00156,False
+G00157,Cuirs Fontvieille,Lucas,Benali,lucas.benali@cuirsfontvieille.com,+33686179327,FR,Paris,Haute couture,Prospect,79911838425134,2200000.0,2025-09-26,"Digital London, Vitrines Milano",2,"R00157, R00425",False
+G00158,Parfums d'Orsay Lune,Inès,Mansouri,ines.mansouri@parfumsdorsaylune.com,+33681599706,FR,Grasse,Parfums & cosmétiques,Client,94078161849594,,2026-06-02,Digital London,1,R00158,False
+G00159,Domaine Saint-Alban,Julien,Girard,julien.girard@domainesaint-alban.com,,IT,Milano,Joaillerie,Prospect,,5700000.0,2024-12-10,Events Dubai,1,R00159,True
+G00160,Parfums Céleste,Inès,Lefèvre,ines.lefevre@parfumsceleste.com,+33703241714,FR,Bordeaux,,Prospect,83465787133151,67800000.0,2024-08-02,Events Dubai,1,R00160,False
+G00161,Orfèvrerie Delmas,Adam,Fontaine,adam.fontaine@orfevreriedelmas.com,+44527047743,GB,London,Haute couture,Prospect,,,2026-05-18,Vitrines Milano,1,R00161,False
+G00162,Maison Sarrazin,Chloé,Khelifi,chloe.khelifi@maisonsarrazin.com,+33768687937,FR,Lyon,,Client,81219136193990,,2025-09-26,Events Dubai,1,R00162,False
+G00163,Parfums d'Orsay Lune,Mehdi,Benali,mehdi.benali@parfumsdorsaylune.com,+33706163294,FR,Grasse,Parfums & cosmétiques,Prospect,94078161849594,39900000.0,2026-06-05,Print Lyon,1,R00163,False
+G00164,Maison Ysolde,Karim,Meyer,karim.meyer@maisonysolde.com,+33698616229,FR,Lyon,Horlogerie,Prospect,20450533158690,,2025-08-11,PLV Paris,1,R00164,False
+G00165,Maison Ysolde,Adam,Roux,adam.roux@maisonysolde.com,+33679970246,FR,Lyon,Horlogerie,Client,20450533158690,40700000.0,2024-06-08,Digital London,1,R00165,False
+G00166,Atelier Solenne,Sarah,Garcia,sarah.garcia@ateliersolenne.com,+33744713247,FR,Lyon,Joaillerie,Client,18196001338900,,2025-11-07,PLV Paris,1,R00166,False
+G00167,Maison Héloïse,Julien,Girard,julien.girard@maisonheloise.com,+33608214862,FR,Lyon,Maroquinerie,Prospect,30103105183475,,2024-10-26,Digital London,1,R00167,False
+G00168,Maison Ophélie,Léa,Chevalier,,+33757861035,FR,Grasse,Vins & spiritueux,Prospect,83503056413951,89300000.0,2026-10-03,Vitrines Milano,1,R00168,True
+G00169,Atelier Noor,Claire,Garcia,claire.garcia@ateliernoor.com,+33702933334,FR,Paris,Vins & spiritueux,Client,48932528809575,,2024-10-18,PLV Paris,1,R00169,False
+G00170,Lumen Paris,Camille,Laurent,,+33746657437,FR,Bordeaux,Parfums & cosmétiques,Prospect,74687234309800,,2026-03-10,Events Dubai,1,R00170,True
+G00171,Atelier Lisière,Rayan,Lefèvre,rayan.lefevre@atelierlisiere.com,+33645444328,,Lyon,Haute couture,Prospect,78108013267735,41500000.0,2026-01-22,PLV Paris,1,R00171,False
+G00172,Cuirs Fontvieille,Camille,Bonnet,camille.bonnet@cuirsfontvieille.com,,FR,Paris,Haute couture,Prospect,79911838425134,,2026-01-25,Vitrines Milano,1,R00172,True
+G00173,Studio Elara,Sofia,Bonnet,sofia.bonnet@studioelara.com,+33725135346,FR,Lyon,Maroquinerie,Prospect,71012269166970,60100000.0,2026-07-15,Vitrines Milano,1,R00173,False
+G00174,Maison Ysolde,Sofia,Bonnet,sofia.bonnet@maisonysolde.com,+33717381684,FR,Lyon,Horlogerie,Prospect,20450533158690,,2026-09-30,Events Dubai,1,R00174,False
+G00175,Parfums Céleste,Louise,Chevalier,louise.chevalier@parfumsceleste.com,+33717525007,FR,Bordeaux,Joaillerie,Prospect,83465787133151,,2026-06-30,Vitrines Milano,1,R00175,False
+G00176,Esprit Riviera,Inès,Dubois,ines.dubois@espritriviera.com,+33667600835,FR,Grasse,Maroquinerie,Prospect,35348740164001,,2025-03-04,Digital London,1,R00176,False
+G00177,Orfèvrerie Delmas,Hugo,Laurent,hugo.laurent@orfevreriedelmas.com,,GB,London,Haute couture,Client,,,2024-12-13,Vitrines Milano,1,R00177,True
+G00178,Atelier Saphir,Sarah,Roux,sarah.roux@ateliersaphir.com,+44303323098,GB,London,Joaillerie,Client,,,2024-10-16,Print Lyon,1,R00178,False
+G00179,Atelier Saphir,Karim,Khelifi,karim.khelifi@ateliersaphir.com,+44910016761,GB,London,,Prospect,,,2025-02-23,PLV Paris,1,R00179,False
+G00180,Atelier Nacré,Camille,Lefèvre,camille.lefevre@ateliernacre.com,+33799261891,FR,Paris,Horlogerie,Prospect,99854353462478,,2025-09-19,PLV Paris,1,R00180,False
+G00181,Maison Albane,Karim,Meyer,karim.meyer@maisonalbane.com,+33620873753,FR,Lyon,Horlogerie,Prospect,84980841241187,11500000.0,2026-05-01,Vitrines Milano,1,R00181,False
+G00182,Bijoux Castellane,Emma,Haddad,emma.haddad@bijouxcastellane.com,,FR,Bordeaux,Joaillerie,Prospect,79402654235112,82200000.0,2024-11-13,PLV Paris,1,R00182,True
+G00183,Cuirs Fontvieille,Sofia,Rossi,sofia.rossi@cuirsfontvieille.com,,FR,Paris,Haute couture,Client,79911838425134,41200000.0,2024-07-05,PLV Paris,1,R00183,True
+G00184,Cristal Montaigne,Nora,Bonnet,nora.bonnet@cristalmontaigne.com,+33712021697,FR,Bordeaux,Horlogerie,Prospect,72423884969657,39000000.0,2024-08-26,Digital London,1,R00184,False
+G00185,Maison Ysolde,Yasmine,Bonnet,yasmine.bonnet@maisonysolde.com,+33601450899,FR,Lyon,Horlogerie,Prospect,20450533158690,,2025-07-12,"Digital London, PLV Paris",2,"R00185, R00407",False
+G00186,Maison Sarrazin,Hugo,Bonnet,hugo.bonnet@maisonsarrazin.com,+33690028772,FR,Lyon,Haute couture,Client,81219136193990,24800000.0,2025-12-04,Digital London,1,R00186,False
+G00187,Joaillerie Iskander,Lucas,Bernard,lucas.bernard@joaillerieiskander.com,+33731791286,FR,Grasse,Parfums & cosmétiques,Client,30391171822783,86600000.0,2025-05-02,"Digital London, Events Dubai",2,"R00188, R00428",False
+G00188,Atelier Lisière,Rayan,Bonnet,rayan.bonnet@atelierlisiere.com,+33713055488,FR,Lyon,Haute couture,Prospect,78108013267735,17000000.0,2024-11-20,"Digital London, Vitrines Milano",2,"R00189, R00430",False
+G00189,Galerie Mirabeau,Lucas,Rossi,lucas.rossi@galeriemirabeau.com,+33663735160,FR,Lyon,Vins & spiritueux,Client,42786801128053,,2026-03-08,Events Dubai,1,R00190,False
+G00190,Maison Aurèle,Emma,Bernard,emma.bernard@maisonaurele.com,+39682922169,IT,Milano,Vins & spiritueux,Prospect,,,2025-05-06,Digital London,1,R00191,False
+G00191,Joaillerie Iskander,Amira,Lefèvre,amira.lefevre@joaillerieiskander.com,+33784858333,FR,Grasse,Parfums & cosmétiques,Client,30391171822783,,2025-08-17,Print Lyon,1,R00192,False
+G00192,Atelier Nacré,Sofia,Roux,sofia.roux@ateliernacre.com,+33768460810,FR,Paris,Horlogerie,Prospect,99854353462478,,2025-04-27,Digital London,1,R00193,False
+G00193,Cristal Montaigne,Claire,Lefèvre,,+33643805719,FR,Bordeaux,Horlogerie,Client,72423884969657,52500000.0,2024-12-24,Vitrines Milano,1,R00194,True
+G00194,Parfums Ombrelle,Nora,Fontaine,nora.fontaine@parfumsombrelle.com,+41904397359,CH,Genève,Horlogerie,Prospect,,20000000.0,2025-09-23,Vitrines Milano,1,R00195,False
+G00195,Maroquinerie Belcourt,Inès,Benali,ines.benali@maroquineriebelcourt.com,+39164842294,IT,Milano,Maroquinerie,Client,,,2026-05-30,"Events Dubai, Vitrines Milano",2,"R00196, R00434",False
+G00196,Horlogerie Vasseur,Amira,Bernard,amira.bernard@horlogerievasseur.com,+33679851583,,Paris,Haute couture,Prospect,34131647525537,16500000.0,2024-09-22,Events Dubai,1,R00197,False
+G00197,Bijoux Castellane,Chloé,Laurent,chloe.laurent@bijouxcastellane.com,+33739878015,FR,Bordeaux,Joaillerie,Client,79402654235112,,2026-04-19,Vitrines Milano,1,R00198,False
+G00198,Maison Sarrazin,Amira,Fontaine,amira.fontaine@maisonsarrazin.com,+33640858877,FR,Lyon,Haute couture,Client,81219136193990,,2024-08-30,PLV Paris,1,R00199,False
+G00199,Maroquinerie Belcourt,Adam,Khelifi,adam.khelifi@maroquineriebelcourt.com,,IT,Milano,Maroquinerie,Client,,,2026-11-16,PLV Paris,1,R00200,True
+G00200,Bijoux Castellane,Léa,Benali,lea.benali@bijouxcastellane.com,+33634667665,FR,Bordeaux,Joaillerie,Prospect,79402654235112,,2024-09-01,Vitrines Milano,1,R00201,False
+G00201,Maison Albane,Louise,Bernard,louise.bernard@maisonalbane.com,+33714491476,FR,Lyon,Horlogerie,Client,84980841241187,,2024-12-06,PLV Paris,1,R00202,False
+G00202,Cuirs Fontvieille,Nora,Khelifi,nora.khelifi@cuirsfontvieille.com,+33750882100,FR,Paris,Haute couture,Client,79911838425134,21700000.0,2026-01-25,Print Lyon,1,R00203,False
+G00203,Parfums Céleste,Emma,Dubois,emma.dubois@parfumsceleste.com,+33631290878,FR,Bordeaux,Joaillerie,Client,83465787133151,,2026-06-12,"PLV Paris, Print Lyon",2,"R00204, R00406",False
+G00204,Cuirs Fontvieille,Louise,Bonnet,louise.bonnet@cuirsfontvieille.com,+33731491357,FR,Paris,Haute couture,Client,79911838425134,67700000.0,2025-12-20,Vitrines Milano,1,R00205,False
+G00205,Maison Corbel,Louise,Roux,louise.roux@maisoncorbel.com,+971605336452,,Dubai,Joaillerie,Prospect,,45800000.0,2024-08-18,Vitrines Milano,1,R00206,False
+G00206,Couture Ardent,Adam,Rossi,,+33628341108,FR,Lyon,Vins & spiritueux,Client,99737631165668,,2026-05-28,Events Dubai,1,R00207,True
+G00207,Atelier Lisière,Adam,Bonnet,adam.bonnet@atelierlisiere.com,+33794278816,FR,Lyon,Haute couture,Client,78108013267735,,2025-01-23,Print Lyon,1,R00208,False
+G00208,Maison Héloïse,Claire,Benali,claire.benali@maisonheloise.com,+33775037314,FR,Lyon,Maroquinerie,Prospect,30103105183475,,2025-04-23,Events Dubai,1,R00209,False
+G00209,Joaillerie Iskander,Sarah,Chevalier,sarah.chevalier@joaillerieiskander.com,+33718449892,FR,Grasse,,Prospect,30391171822783,,2026-10-07,PLV Paris,1,R00210,False
+G00210,Joaillerie Iskander,Hugo,Meyer,hugo.meyer@joaillerieiskander.com,+33677908272,FR,Grasse,Parfums & cosmétiques,Prospect,30391171822783,66000000.0,2025-10-04,Vitrines Milano,1,R00211,False
+G00211,Horlogerie Vasseur,Claire,Benali,claire.benali@horlogerievasseur.com,+33636517773,FR,Paris,Haute couture,Prospect,34131647525537,,2025-11-18,Events Dubai,1,R00212,False
+G00212,Maison Corbel,Louise,Benali,louise.benali@maisoncorbel.com,+971120242869,AE,Dubai,Joaillerie,Client,,22300000.0,2026-07-09,Events Dubai,1,R00213,False
+G00213,Maison Ysolde,Sarah,Benali,sarah.benali@maisonysolde.com,+33629842579,FR,Lyon,Horlogerie,Prospect,20450533158690,,2026-04-13,Digital London,1,R00214,False
+G00214,Maison Aurèle,Julien,Meyer,julien.meyer@maisonaurele.com,+39188392053,IT,Milano,Vins & spiritueux,Client,,28400000.0,2026-02-04,"Digital London, Events Dubai, Print Lyon",3,"R00215, R00221, R00427",False
+G00215,Atelier Saphir,Lucas,Meyer,,+44286376599,GB,London,Joaillerie,Prospect,,26200000.0,2025-09-19,Vitrines Milano,1,R00216,True
+G00216,Parfums Ombrelle,Inès,Lefèvre,ines.lefevre@parfumsombrelle.com,+41124876329,CH,Genève,Horlogerie,Prospect,,,2025-09-23,"Digital London, Events Dubai",2,"R00217, R00311",False
+G00217,Parfums Céleste,Louise,Garcia,louise.garcia@parfumsceleste.com,,FR,Bordeaux,Joaillerie,Prospect,83465787133151,57000000.0,2026-03-01,Events Dubai,1,R00218,True
+G00218,Studio Elara,Louise,Roux,louise.roux@studioelara.com,+33713721386,FR,Lyon,Maroquinerie,Prospect,71012269166970,,2024-09-22,"Digital London, Vitrines Milano",2,"R00219, R00405",False
+G00219,Galerie Mirabeau,Yasmine,Bonnet,yasmine.bonnet@galeriemirabeau.com,,FR,Lyon,Vins & spiritueux,Client,42786801128053,65700000.0,2025-03-19,Digital London,1,R00220,True
+G00220,Maison Sarrazin,Nora,Fontaine,nora.fontaine@maisonsarrazin.com,+33711848955,FR,Lyon,Haute couture,Prospect,81219136193990,20100000.0,2025-04-02,Print Lyon,1,R00222,False
+G00221,Maison Corbel,Camille,Garcia,camille.garcia@maisoncorbel.com,+971518451848,AE,Dubai,Joaillerie,Prospect,,57800000.0,2026-05-28,Digital London,1,R00223,False
+G00222,Maison Albane,Amira,Chevalier,amira.chevalier@maisonalbane.com,+33771416335,FR,Lyon,Horlogerie,Prospect,84980841241187,,2024-12-26,Digital London,1,R00224,False
+G00223,Maison Ophélie,Thomas,Haddad,thomas.haddad@maisonophelie.com,+33621478539,FR,Grasse,Vins & spiritueux,Client,83503056413951,,2025-10-11,"Digital London, Vitrines Milano",2,"R00225, R00440",False
+G00224,Domaine Saint-Alban,Hugo,Moreau,hugo.moreau@domainesaint-alban.com,+39121117908,IT,Milano,Joaillerie,Prospect,,63700000.0,2024-07-22,Print Lyon,1,R00226,False
+G00225,Atelier Saphir,Louise,Garcia,louise.garcia@ateliersaphir.com,+44846392086,GB,London,Joaillerie,Prospect,,,2025-07-09,"Events Dubai, Print Lyon",2,"R00227, R00441",False
+G00226,Parfums d'Orsay Lune,Emma,Chevalier,emma.chevalier@parfumsdorsaylune.com,+33769155942,FR,Grasse,Parfums & cosmétiques,Client,94078161849594,48400000.0,2026-01-04,PLV Paris,1,R00228,False
+G00227,Maroquinerie Belcourt,Sarah,Girard,sarah.girard@maroquineriebelcourt.com,+39456472929,IT,Milano,Maroquinerie,Prospect,,,2026-04-22,Digital London,1,R00229,False
+G00228,Maison Ysolde,Nora,Moreau,nora.moreau@maisonysolde.com,+33726728857,FR,Lyon,Horlogerie,Prospect,20450533158690,,2026-06-27,Print Lyon,1,R00230,False
+G00229,Parfums d'Orsay Lune,Claire,Bernard,claire.bernard@parfumsdorsaylune.com,+33717545588,FR,Grasse,Parfums & cosmétiques,Prospect,94078161849594,,2026-04-17,Vitrines Milano,1,R00231,False
+G00230,Maison Ysolde,Rayan,Moreau,rayan.moreau@maisonysolde.com,+33724558771,FR,Lyon,Horlogerie,Prospect,20450533158690,,2025-04-12,Events Dubai,1,R00232,False
+G00231,Orfèvrerie Delmas,Amira,Girard,amira.girard@orfevreriedelmas.com,+44712535544,GB,London,Haute couture,Prospect,,80100000.0,2025-02-15,Events Dubai,1,R00233,False
+G00232,Parfums Céleste,Claire,Benali,claire.benali@parfumsceleste.com,,FR,Bordeaux,Joaillerie,Client,83465787133151,79100000.0,2024-07-02,PLV Paris,1,R00234,True
+G00233,Parfums d'Orsay Lune,Karim,Dubois,karim.dubois@parfumsdorsaylune.com,+33747228200,FR,Grasse,Parfums & cosmétiques,Client,94078161849594,48000000.0,2026-08-29,Digital London,1,R00235,False
+G00234,Horlogerie Vasseur,Adam,Benali,adam.benali@horlogerievasseur.com,+33696884578,FR,Paris,Haute couture,Prospect,34131647525537,31700000.0,2025-03-28,Events Dubai,1,R00236,False
+G00235,Cristal Montaigne,Yasmine,Lefèvre,yasmine.lefevre@cristalmontaigne.com,+33654780774,FR,Bordeaux,Horlogerie,Prospect,72423884969657,,2026-11-13,PLV Paris,1,R00237,False
+G00236,Atelier Lisière,Chloé,Moreau,chloe.moreau@atelierlisiere.com,+33726634163,FR,Lyon,Haute couture,Prospect,78108013267735,83000000.0,2025-09-28,Events Dubai,1,R00238,False
+G00237,Domaine Saint-Alban,Inès,Benali,ines.benali@domainesaint-alban.com,+39397497350,IT,Milano,Joaillerie,Client,,,2026-07-07,"Print Lyon, Vitrines Milano",2,"R00239, R00429",False
+G00238,Studio Elara,Karim,Dubois,karim.dubois@studioelara.com,+33712073564,FR,Lyon,Maroquinerie,Prospect,71012269166970,,2024-11-21,Digital London,1,R00240,False
+G00239,Bijoux Castellane,Yasmine,Bernard,yasmine.bernard@bijouxcastellane.com,+33723460136,FR,Bordeaux,Joaillerie,Client,79402654235112,20500000.0,2026-02-24,Digital London,1,R00241,False
+G00240,Brume de Grasse,Julien,Bonnet,julien.bonnet@brumedegrasse.com,,FR,Paris,Vins & spiritueux,Prospect,10651333872628,,2025-10-21,Vitrines Milano,1,R00242,True
+G00241,Maison Valmont Rive,Camille,Benali,camille.benali@maisonvalmontrive.com,+33630241026,FR,Paris,Vins & spiritueux,Prospect,18451462704821,,2024-09-01,"Print Lyon, Vitrines Milano",2,"R00243, R00416",False
+G00242,Parfums Ombrelle,Léa,Bernard,lea.bernard@parfumsombrelle.com,+41127358573,CH,Genève,Horlogerie,Prospect,,,2025-11-24,Print Lyon,1,R00244,False
+G00243,Atelier Saphir,Léa,Bonnet,lea.bonnet@ateliersaphir.com,,GB,London,Joaillerie,Prospect,,,2024-11-30,Digital London,1,R00245,True
+G00244,Studio Elara,Karim,Khelifi,,+33786209593,FR,Lyon,Maroquinerie,Client,71012269166970,84000000.0,2025-11-13,Digital London,1,R00246,True
+G00245,Brume de Grasse,Sarah,Khelifi,sarah.khelifi@brumedegrasse.com,+33651181022,FR,Paris,Vins & spiritueux,Client,10651333872628,,2026-06-19,Events Dubai,1,R00247,False
+G00246,Atelier Solenne,Louise,Fontaine,louise.fontaine@ateliersolenne.com,+33656613906,FR,Lyon,Joaillerie,Prospect,18196001338900,4400000.0,2026-09-04,"Digital London, PLV Paris",2,"R00248, R00254",False
+G00247,Atelier Lisière,Lucas,Roux,,+33680141381,FR,Lyon,Haute couture,Prospect,78108013267735,,2024-09-01,PLV Paris,1,R00249,True
+G00248,Brume de Grasse,Hugo,Benali,hugo.benali@brumedegrasse.com,,FR,Paris,Vins & spiritueux,Prospect,10651333872628,54800000.0,2025-05-01,Events Dubai,1,R00250,True
+G00249,Atelier Saphir,Amira,Khelifi,amira.khelifi@ateliersaphir.com,+44965939836,GB,London,Joaillerie,Prospect,,46500000.0,2025-12-26,Vitrines Milano,1,R00251,False
+G00250,Maison Aurèle,Léa,Lefèvre,lea.lefevre@maisonaurele.com,+39904335048,IT,Milano,Vins & spiritueux,Prospect,,4000000.0,2025-03-23,PLV Paris,1,R00252,False
+G00251,Horlogerie Vasseur,Yasmine,Garcia,yasmine.garcia@horlogerievasseur.com,+33741969315,FR,Paris,Haute couture,Client,34131647525537,,2025-11-13,Events Dubai,1,R00253,False
+G00252,Maison Valmont Rive,Emma,Laurent,emma.laurent@maisonvalmontrive.com,+33779981364,FR,Paris,Vins & spiritueux,Prospect,18451462704821,,2026-06-20,PLV Paris,1,R00255,False
+G00253,Maison Corbel,Léa,Khelifi,lea.khelifi@maisoncorbel.com,+971462278376,AE,Dubai,,Client,,7500000.0,2025-10-11,Vitrines Milano,1,R00256,False
+G00254,Maison Valmont Rive,Louise,Haddad,louise.haddad@maisonvalmontrive.com,+33735590425,FR,Paris,Vins & spiritueux,Prospect,18451462704821,,2026-07-31,Digital London,1,R00257,False
+G00255,Maison Sarrazin,Chloé,Dubois,chloe.dubois@maisonsarrazin.com,+33739240514,FR,Lyon,Haute couture,Client,81219136193990,,2024-10-09,PLV Paris,1,R00258,False
+G00256,Domaine Saint-Alban,Adam,Meyer,adam.meyer@domainesaint-alban.com,+39120698042,IT,Milano,Joaillerie,Prospect,,81000000.0,2024-10-16,Vitrines Milano,1,R00259,False
+G00257,Maison Héloïse,Camille,Haddad,camille.haddad@maisonheloise.com,+33651046368,FR,Lyon,,Prospect,30103105183475,,2025-10-22,Vitrines Milano,1,R00260,False
+G00258,Domaine Saint-Alban,Emma,Chevalier,emma.chevalier@domainesaint-alban.com,+39645762055,IT,Milano,Joaillerie,Client,,51500000.0,2025-04-28,PLV Paris,1,R00261,False
+G00259,Orfèvrerie Delmas,Karim,Fontaine,karim.fontaine@orfevreriedelmas.com,+44432562168,GB,London,Haute couture,Prospect,,,2024-08-11,PLV Paris,1,R00262,False
+G00260,Studio Elara,Rayan,Mansouri,,+33729832482,FR,Lyon,Maroquinerie,Client,71012269166970,16300000.0,2025-08-21,Events Dubai,1,R00263,True
+G00261,Atelier Lisière,Adam,Rossi,adam.rossi@atelierlisiere.com,+33605664742,FR,Lyon,Haute couture,Prospect,78108013267735,,2027-09-28,Vitrines Milano,1,R00264,False
+G00262,Lumen Paris,Louise,Laurent,louise.laurent@lumenparis.com,+33651728975,FR,Bordeaux,Parfums & cosmétiques,Client,74687234309800,,2025-03-23,Print Lyon,1,R00265,False
+G00263,Domaine Saint-Alban,Hugo,Bernard,hugo.bernard@domainesaint-alban.com,+39633312797,IT,Milano,Joaillerie,Prospect,,43900000.0,2025-10-01,"PLV Paris, Vitrines Milano",2,"R00266, R00426",False
+G00264,Lumen Paris,Nora,Mansouri,nora.mansouri@lumenparis.com,+33698808177,FR,Bordeaux,Parfums & cosmétiques,Prospect,74687234309800,55200000.0,2025-10-16,Events Dubai,1,R00267,False
+G00265,Atelier Lisière,Nora,Meyer,nora.meyer@atelierlisiere.com,+33664472649,FR,Lyon,Haute couture,Client,78108013267735,85100000.0,2024-10-01,"PLV Paris, Print Lyon",2,"R00268, R00435",False
+G00266,Cuirs Fontvieille,Emma,Rossi,emma.rossi@cuirsfontvieille.com,+33782665702,FR,Paris,,Prospect,79911838425134,9400000.0,2026-05-23,Events Dubai,1,R00269,False
+G00267,Atelier Nacré,Claire,Rossi,claire.rossi@ateliernacre.com,+33751868926,FR,Paris,Horlogerie,Prospect,99854353462478,,2026-08-22,PLV Paris,1,R00270,False
+G00268,Maison Ysolde,Yasmine,Benali,yasmine.benali@maisonysolde.com,+33774212309,FR,Lyon,Horlogerie,Prospect,20450533158690,51100000.0,2024-09-27,PLV Paris,1,R00271,False
+G00269,Lumen Paris,Sarah,Laurent,sarah.laurent@lumenparis.com,,FR,Bordeaux,Parfums & cosmétiques,Prospect,74687234309800,,2026-04-15,Events Dubai,1,R00272,True
+G00270,Orfèvrerie Delmas,Chloé,Bernard,chloe.bernard@orfevreriedelmas.com,+44545101622,GB,London,Haute couture,Prospect,,76900000.0,2026-06-28,PLV Paris,1,R00273,False
+G00271,Bijoux Castellane,Thomas,Mansouri,thomas.mansouri@bijouxcastellane.com,+33781472145,FR,Bordeaux,Joaillerie,Prospect,79402654235112,,2025-11-11,Digital London,1,R00274,False
+G00272,Maison Corbel,Emma,Haddad,,+971646954899,AE,Dubai,Joaillerie,Prospect,,57800000.0,2025-07-16,Events Dubai,1,R00275,True
+G00273,Couture Ardent,Claire,Laurent,claire.laurent@coutureardent.com,+33610713966,FR,Lyon,Vins & spiritueux,Prospect,99737631165668,,2024-11-28,Vitrines Milano,1,R00276,False
+G00274,Orfèvrerie Delmas,Julien,Lefèvre,julien.lefevre@orfevreriedelmas.com,+44185015569,GB,London,Haute couture,Client,,34000000.0,2026-03-08,PLV Paris,1,R00277,False
+G00275,Parfums Ombrelle,Sarah,Bernard,sarah.bernard@parfumsombrelle.com,+41678576084,CH,Genève,Horlogerie,Prospect,,59300000.0,2025-01-31,"PLV Paris, Print Lyon",2,"R00278, R00404",False
+G00276,Bijoux Castellane,Yasmine,Garcia,yasmine.garcia@bijouxcastellane.com,+33782996291,FR,Bordeaux,Joaillerie,Client,79402654235112,28000000.0,2024-07-16,PLV Paris,1,R00279,False
+G00277,Couture Ardent,Hugo,Roux,hugo.roux@coutureardent.com,+33621503178,FR,Lyon,Vins & spiritueux,Client,99737631165668,,2025-08-18,Vitrines Milano,1,R00280,False
+G00278,Parfums Ombrelle,Sarah,Meyer,sarah.meyer@parfumsombrelle.com,+41182307681,CH,Genève,Horlogerie,Client,,,2026-01-10,Vitrines Milano,1,R00281,False
+G00279,Maison Héloïse,Léa,Rossi,lea.rossi@maisonheloise.com,+33735334485,FR,Lyon,,Client,30103105183475,,2025-06-08,Vitrines Milano,1,R00282,False
+G00280,Parfums d'Orsay Lune,Camille,Khelifi,camille.khelifi@parfumsdorsaylune.com,+33685424932,FR,Grasse,Parfums & cosmétiques,Client,94078161849594,34800000.0,2025-06-15,"Events Dubai, PLV Paris",2,"R00283, R00401",False
+G00281,Horlogerie Vasseur,Camille,Bonnet,camille.bonnet@horlogerievasseur.com,+33716629979,FR,Paris,Haute couture,Client,34131647525537,,2025-01-01,PLV Paris,1,R00284,False
+G00282,Parfums Ombrelle,Mehdi,Dubois,mehdi.dubois@parfumsombrelle.com,+41777332945,CH,Genève,Horlogerie,Client,,68300000.0,2026-08-20,Digital London,1,R00285,False
+G00283,Maison Héloïse,Sarah,Martin,sarah.martin@maisonheloise.com,+33672459928,FR,Lyon,Maroquinerie,Client,30103105183475,,2026-09-18,Digital London,1,R00286,False
+G00284,Atelier Lisière,Mehdi,Fontaine,,+33782761539,FR,Lyon,Haute couture,Client,78108013267735,80800000.0,2025-03-29,Digital London,1,R00287,True
+G00285,Maroquinerie Belcourt,Inès,Bonnet,ines.bonnet@maroquineriebelcourt.com,+39281724619,IT,Milano,Maroquinerie,Prospect,,,2026-07-29,"Digital London, Events Dubai",2,"R00288, R00431",False
+G00286,Domaine Saint-Alban,Yasmine,Martin,yasmine.martin@domainesaint-alban.com,+39684699733,IT,Milano,Joaillerie,Prospect,,81500000.0,2024-10-09,Print Lyon,1,R00289,False
+G00287,Atelier Nacré,Chloé,Haddad,chloe.haddad@ateliernacre.com,+33762405800,FR,Paris,Horlogerie,Prospect,99854353462478,,2025-04-06,PLV Paris,1,R00290,False
+G00288,Parfums Céleste,Louise,Fontaine,louise.fontaine@parfumsceleste.com,+33766832723,FR,Bordeaux,Joaillerie,Prospect,83465787133151,15900000.0,2025-02-21,Vitrines Milano,1,R00291,False
+G00289,Horlogerie Vasseur,Camille,Haddad,camille.haddad@horlogerievasseur.com,+33690509759,FR,Paris,Haute couture,Prospect,34131647525537,82200000.0,2025-08-09,"Digital London, PLV Paris",2,"R00292, R00371",False
+G00290,Atelier Noor,Hugo,Benali,hugo.benali@ateliernoor.com,+33638468950,FR,Paris,Vins & spiritueux,Client,48932528809575,11700000.0,2025-09-15,"Events Dubai, Print Lyon",2,"R00293, R00402",False
+G00291,Horlogerie Vasseur,Emma,Garcia,emma.garcia@horlogerievasseur.com,+33613718949,FR,Paris,Haute couture,Client,34131647525537,,2025-08-04,"Events Dubai, Print Lyon",2,"R00294, R00410",False
+G00292,Maison Héloïse,Emma,Bonnet,emma.bonnet@maisonheloise.com,+33742094940,FR,Lyon,Maroquinerie,Prospect,30103105183475,5400000.0,2025-04-15,Vitrines Milano,1,R00295,False
+G00293,Studio Elara,Sarah,Haddad,sarah.haddad@studioelara.com,+33639500334,FR,Lyon,Maroquinerie,Client,71012269166970,,2026-07-17,"Events Dubai, Vitrines Milano",2,"R00296, R00412",False
+G00294,Esprit Riviera,Hugo,Bonnet,hugo.bonnet@espritriviera.com,+33712927663,FR,Grasse,,Prospect,35348740164001,59300000.0,2026-05-22,Events Dubai,1,R00297,False
+G00295,Orfèvrerie Delmas,Karim,Rossi,karim.rossi@orfevreriedelmas.com,+44347836674,GB,London,Haute couture,Prospect,,29700000.0,2026-10-01,Print Lyon,1,R00298,False
+G00296,Maison Sarrazin,Amira,Meyer,amira.meyer@maisonsarrazin.com,,FR,Lyon,Haute couture,Client,81219136193990,,2024-12-24,PLV Paris,1,R00299,True
+G00297,Brume de Grasse,Amira,Benali,amira.benali@brumedegrasse.com,+33610618175,FR,Paris,Vins & spiritueux,Client,10651333872628,,2026-01-07,Events Dubai,1,R00300,False
+G00298,Lumen Paris,Inès,Bernard,ines.bernard@lumenparis.com,+33611192692,FR,Bordeaux,Parfums & cosmétiques,Prospect,74687234309800,30300000.0,2025-03-25,Print Lyon,1,R00301,False
+G00299,Orfèvrerie Delmas,Mehdi,Garcia,mehdi.garcia@orfevreriedelmas.com,+44654214066,GB,London,Haute couture,Prospect,,83400000.0,2024-09-27,Digital London,1,R00302,False
+G00300,Maison Héloïse,Inès,Bonnet,,+33771286391,FR,Lyon,Maroquinerie,Client,30103105183475,,2026-05-02,Events Dubai,1,R00303,True
+G00301,Maison Corbel,Karim,Chevalier,karim.chevalier@maisoncorbel.com,+971100642569,AE,Dubai,Joaillerie,Client,,44800000.0,2026-11-04,"Digital London, PLV Paris",2,"R00304, R00409",False
+G00302,Atelier Lisière,Hugo,Martin,hugo.martin@atelierlisiere.com,+33755460158,FR,Lyon,Haute couture,Client,78108013267735,78000000.0,2025-10-26,Digital London,1,R00305,False
+G00303,Maroquinerie Belcourt,Adam,Bernard,adam.bernard@maroquineriebelcourt.com,+39415717320,IT,Milano,Maroquinerie,Client,,,2025-10-26,Print Lyon,1,R00306,False
+G00304,Joaillerie Iskander,Inès,Khelifi,ines.khelifi@joaillerieiskander.com,+33600505061,FR,Grasse,Parfums & cosmétiques,Prospect,30391171822783,,2025-02-03,Vitrines Milano,1,R00307,False
+G00305,Atelier Solenne,Yasmine,Bonnet,yasmine.bonnet@ateliersolenne.com,,FR,Lyon,Joaillerie,Prospect,18196001338900,,2025-01-23,PLV Paris,1,R00308,True
+G00306,Couture Ardent,Rayan,Laurent,rayan.laurent@coutureardent.com,+33665198253,FR,Lyon,Vins & spiritueux,Prospect,99737631165668,,2026-09-20,Print Lyon,1,R00309,False
+G00307,Horlogerie Vasseur,Lucas,Benali,lucas.benali@horlogerievasseur.com,+33639021962,FR,Paris,Haute couture,Prospect,34131647525537,,2024-12-10,Vitrines Milano,1,R00310,False
+G00308,Atelier Noor,Lucas,Martin,lucas.martin@ateliernoor.com,+33719588373,FR,Paris,Vins & spiritueux,Client,48932528809575,,2025-05-01,Print Lyon,1,R00312,False
+G00309,Couture Ardent,Claire,Benali,claire.benali@coutureardent.com,+33643645970,FR,Lyon,Vins & spiritueux,Client,99737631165668,,2025-01-06,PLV Paris,1,R00313,False
+G00310,Couture Ardent,Emma,Rossi,emma.rossi@coutureardent.com,+33695635315,FR,Lyon,Vins & spiritueux,Prospect,99737631165668,75700000.0,2026-09-12,Print Lyon,1,R00314,False
+G00311,Joaillerie Iskander,Hugo,Haddad,,+33723972652,FR,Grasse,Parfums & cosmétiques,Prospect,30391171822783,,2025-07-29,Events Dubai,1,R00315,True
+G00312,Horlogerie Vasseur,Léa,Bernard,,+33676253492,FR,Paris,Haute couture,Client,34131647525537,42300000.0,2026-02-09,Print Lyon,1,R00316,True
+G00313,Maison Corbel,Sarah,Chevalier,,+971133569392,AE,Dubai,Joaillerie,Prospect,,4300000.0,2026-02-11,PLV Paris,1,R00317,True
+G00314,Parfums Céleste,Emma,Fontaine,emma.fontaine@parfumsceleste.com,+33618063254,FR,Bordeaux,Joaillerie,Prospect,83465787133151,49300000.0,2025-07-21,PLV Paris,1,R00318,False
+G00315,Atelier Nacré,Mehdi,Martin,mehdi.martin@ateliernacre.com,+33662570165,FR,Paris,Horlogerie,Prospect,99854353462478,77200000.0,2025-08-15,"Digital London, Events Dubai",2,"R00319, R00442",False
+G00316,Esprit Riviera,Inès,Mansouri,ines.mansouri@espritriviera.com,+33750165790,FR,Grasse,Maroquinerie,Prospect,35348740164001,,2024-10-31,"Events Dubai, PLV Paris",2,"R00320, R00433",False
+G00317,Horlogerie Vasseur,Amira,Laurent,amira.laurent@horlogerievasseur.com,+33793355486,FR,Paris,Haute couture,Prospect,34131647525537,38300000.0,2025-05-20,PLV Paris,1,R00321,False
+G00318,Couture Ardent,Emma,Meyer,emma.meyer@coutureardent.com,+33684795137,FR,Lyon,Vins & spiritueux,Prospect,99737631165668,18500000.0,2024-07-27,PLV Paris,1,R00322,False
+G00319,Parfums d'Orsay Lune,Claire,Garcia,,+33780468275,FR,Grasse,Parfums & cosmétiques,Prospect,94078161849594,,2026-08-01,Print Lyon,1,R00323,True
+G00320,Maison Aurèle,Hugo,Meyer,hugo.meyer@maisonaurele.com,+39357988774,IT,Milano,Vins & spiritueux,Prospect,,81000000.0,2025-02-01,Vitrines Milano,1,R00324,False
+G00321,Couture Ardent,Chloé,Lefèvre,chloe.lefevre@coutureardent.com,+33672928422,FR,Lyon,Vins & spiritueux,Client,99737631165668,,2024-09-26,PLV Paris,1,R00325,False
+G00322,Maison Corbel,Yasmine,Chevalier,yasmine.chevalier@maisoncorbel.com,+971905525782,AE,Dubai,Joaillerie,Client,,2700000.0,2026-03-02,Vitrines Milano,1,R00326,False
+G00323,Maison Albane,Yasmine,Chevalier,yasmine.chevalier@maisonalbane.com,+33788547492,FR,Lyon,Horlogerie,Client,84980841241187,75100000.0,2027-12-25,Print Lyon,1,R00327,False
+G00324,Horlogerie Vasseur,Adam,Rossi,adam.rossi@horlogerievasseur.com,+33675150939,FR,Paris,Haute couture,Prospect,34131647525537,,2026-01-12,PLV Paris,1,R00328,False
+G00325,Maison Sarrazin,Inès,Meyer,ines.meyer@maisonsarrazin.com,+33798056265,FR,Lyon,,Prospect,81219136193990,29300000.0,2025-10-16,Print Lyon,1,R00329,False
+G00326,Bijoux Castellane,Louise,Fontaine,louise.fontaine@bijouxcastellane.com,+33762879232,FR,Bordeaux,Joaillerie,Prospect,79402654235112,,2026-08-25,PLV Paris,1,R00331,False
+G00327,Galerie Mirabeau,Louise,Lefèvre,louise.lefevre@galeriemirabeau.com,,FR,Lyon,Vins & spiritueux,Prospect,42786801128053,,2025-07-06,Events Dubai,1,R00332,True
+G00328,Maison Valmont Rive,Mehdi,Dubois,mehdi.dubois@maisonvalmontrive.com,+33665044818,FR,Paris,Vins & spiritueux,Client,18451462704821,,2025-11-23,Print Lyon,1,R00334,False
+G00329,Maison Ysolde,Amira,Lefèvre,amira.lefevre@maisonysolde.com,+33752028457,FR,Lyon,Horlogerie,Client,20450533158690,,2026-02-19,Vitrines Milano,1,R00335,False
+G00330,Brume de Grasse,Hugo,Moreau,hugo.moreau@brumedegrasse.com,+33688167112,FR,Paris,Vins & spiritueux,Prospect,10651333872628,32100000.0,2024-08-31,Events Dubai,1,R00336,False
+G00331,Galerie Mirabeau,Mehdi,Meyer,mehdi.meyer@galeriemirabeau.com,+33601322342,FR,Lyon,Vins & spiritueux,Client,42786801128053,,2024-10-03,Vitrines Milano,1,R00337,False
+G00332,Maison Aurèle,Sarah,Girard,,+39589071401,IT,Milano,Vins & spiritueux,Client,,,2026-10-11,Print Lyon,1,R00338,True
+G00333,Atelier Nacré,Julien,Lefèvre,julien.lefevre@ateliernacre.com,,,Paris,Horlogerie,Client,99854353462478,39000000.0,2026-06-01,Events Dubai,1,R00340,True
+G00334,Brume de Grasse,Hugo,Girard,hugo.girard@brumedegrasse.com,+33782754801,FR,Paris,Vins & spiritueux,Client,10651333872628,39600000.0,2026-07-31,Vitrines Milano,1,R00341,False
+G00335,Lumen Paris,Thomas,Chevalier,thomas.chevalier@lumenparis.com,+33731752071,FR,Bordeaux,Parfums & cosmétiques,Prospect,74687234309800,,2026-04-06,Events Dubai,1,R00342,False
+G00336,Horlogerie Vasseur,Nora,Fontaine,nora.fontaine@horlogerievasseur.com,+33621535396,FR,Paris,,Prospect,34131647525537,74400000.0,2024-12-12,Events Dubai,1,R00343,False
+G00337,Maison Albane,Louise,Garcia,louise.garcia@maisonalbane.com,+33696784271,FR,Lyon,Horlogerie,Client,84980841241187,,2024-10-10,Digital London,1,R00344,False
+G00338,Maison Aurèle,Sofia,Bernard,sofia.bernard@maisonaurele.com,+39226952499,IT,Milano,Vins & spiritueux,Prospect,,77100000.0,2024-07-26,PLV Paris,1,R00345,False
+G00339,Domaine Saint-Alban,Thomas,Bonnet,thomas.bonnet@domainesaint-alban.com,+39688006167,IT,Milano,Joaillerie,Client,,,2025-07-09,Events Dubai,1,R00346,False
+G00340,Maroquinerie Belcourt,Adam,Lefèvre,adam.lefevre@maroquineriebelcourt.com,+39846719788,IT,Milano,Maroquinerie,Prospect,,,2024-11-30,Print Lyon,1,R00347,False
+G00341,Joaillerie Iskander,Karim,Bonnet,karim.bonnet@joaillerieiskander.com,+33745009025,FR,Grasse,Parfums & cosmétiques,Prospect,30391171822783,,2025-03-28,Digital London,1,R00348,False
+G00342,Atelier Noor,Chloé,Girard,chloe.girard@ateliernoor.com,,FR,Paris,Vins & spiritueux,Prospect,48932528809575,,2025-11-29,PLV Paris,1,R00349,True
+G00343,Maison Sarrazin,Lucas,Meyer,lucas.meyer@maisonsarrazin.com,+33690569659,FR,Lyon,Haute couture,Client,81219136193990,,2025-09-18,Vitrines Milano,1,R00350,False
+G00344,Couture Ardent,Emma,Mansouri,emma.mansouri@coutureardent.com,+33737183440,FR,Lyon,,Client,99737631165668,,2026-06-06,Events Dubai,1,R00351,False
+G00345,Maison Corbel,Amira,Garcia,,+971963514846,AE,Dubai,Joaillerie,Prospect,,42600000.0,2026-09-16,Events Dubai,1,R00352,True
+G00346,Lumen Paris,Emma,Chevalier,emma.chevalier@lumenparis.com,+33782973748,FR,Bordeaux,Parfums & cosmétiques,Client,74687234309800,20700000.0,2025-01-05,Events Dubai,1,R00353,False
+G00347,Horlogerie Vasseur,Hugo,Dubois,,+33651364424,FR,Paris,Haute couture,Prospect,34131647525537,,2024-10-20,Vitrines Milano,1,R00354,True
+G00348,Maison Aurèle,Hugo,Lefèvre,hugo.lefevre@maisonaurele.com,+39560324204,IT,Milano,Vins & spiritueux,Prospect,,,2025-08-05,Digital London,1,R00355,False
+G00349,Esprit Riviera,Camille,Bernard,camille.bernard@espritriviera.com,+33616516231,FR,Grasse,Maroquinerie,Client,35348740164002,,2024-06-26,PLV Paris,1,R00356,False
+G00350,Maison Albane,Amira,Mansouri,amira.mansouri@maisonalbane.com,+33736321234,FR,Lyon,Horlogerie,Prospect,84980841241187,,2024-07-24,"Events Dubai, Vitrines Milano",2,"R00357, R00422",False
+G00351,Atelier Lisière,Chloé,Rossi,chloe.rossi@atelierlisiere.com,+33634257540,,Lyon,Haute couture,Prospect,78108013267735,26100000.0,2026-01-03,Events Dubai,1,R00358,False
+G00352,Orfèvrerie Delmas,Chloé,Rossi,,+44306441343,GB,London,Haute couture,Prospect,,83300000.0,2025-05-25,Print Lyon,1,R00359,True
+G00353,Cristal Montaigne,Inès,Bonnet,ines.bonnet@cristalmontaigne.com,+33761248156,FR,Bordeaux,Horlogerie,Prospect,72423884969657,,2025-07-29,Digital London,1,R00360,False
+G00354,Orfèvrerie Delmas,Mehdi,Dubois,mehdi.dubois@orfevreriedelmas.com,+44759112382,GB,London,Haute couture,Client,,,2026-11-20,Digital London,1,R00361,False
+G00355,Maroquinerie Belcourt,Louise,Mansouri,louise.mansouri@maroquineriebelcourt.com,+39952669300,IT,Milano,Maroquinerie,Client,,,2024-08-27,Vitrines Milano,1,R00362,False
+G00356,Atelier Nacré,Claire,Bernard,claire.bernard@ateliernacre.com,+33721529108,FR,Paris,Horlogerie,Prospect,99854353462478,,2025-10-09,Events Dubai,1,R00363,False
+G00357,Domaine Saint-Alban,Karim,Lefèvre,karim.lefevre@domainesaint-alban.com,+39339343626,IT,Milano,Joaillerie,Client,,,2024-10-20,Digital London,1,R00364,False
+G00358,Parfums Ombrelle,Hugo,Roux,hugo.roux@parfumsombrelle.com,,CH,Genève,Horlogerie,Client,,,2025-04-06,Digital London,1,R00365,True
+G00359,Parfums Ombrelle,Hugo,Bonnet,hugo.bonnet@parfumsombrelle.com,+41600489646,CH,Genève,,Prospect,,,2025-11-26,Events Dubai,1,R00366,False
+G00360,Maroquinerie Belcourt,Emma,Bonnet,emma.bonnet@maroquineriebelcourt.com,+39886241502,IT,Milano,Maroquinerie,Client,,37100000.0,2025-12-11,Digital London,1,R00367,False
+G00361,Atelier Saphir,Karim,Garcia,,+44157287032,GB,London,Joaillerie,Prospect,,3800000.0,2025-06-12,Vitrines Milano,1,R00368,True
+G00362,Maroquinerie Belcourt,Mehdi,Girard,,+39287771215,IT,Milano,Maroquinerie,Client,,,2026-07-28,Digital London,1,R00369,True
+G00363,Maison Corbel,Louise,Moreau,,+971526137150,AE,Dubai,Joaillerie,Prospect,,,2025-04-05,PLV Paris,1,R00370,True
+G00364,Esprit Riviera,Léa,Haddad,lea.haddad@espritriviera.com,+33742361032,FR,Grasse,Maroquinerie,Client,35348740164001,,2025-05-12,"Events Dubai, Print Lyon",2,"R00372, R00415",False
+G00365,Studio Elara,Sarah,Girard,sarah.girard@studioelara.com,+33725158377,FR,Lyon,Maroquinerie,Prospect,71012269166970,57800000.0,2024-10-31,Vitrines Milano,1,R00373,False
+G00366,Maison Albane,Lucas,Roux,lucas.roux@maisonalbane.com,+33610857327,FR,Lyon,,Prospect,84980841241187,,2025-03-05,Print Lyon,1,R00374,False
+G00367,Studio Elara,Yasmine,Dubois,yasmine.dubois@studioelara.com,+33664908108,FR,Lyon,Maroquinerie,Prospect,71012269166970,9800000.0,2024-12-23,Vitrines Milano,1,R00375,False
+G00368,Atelier Noor,Karim,Haddad,,+33772260164,FR,Paris,Vins & spiritueux,Client,48932528809575,64000000.0,2024-09-27,Events Dubai,1,R00376,True
+G00369,Parfums Ombrelle,Claire,Moreau,claire.moreau@parfumsombrelle.com,+41141680061,CH,Genève,Horlogerie,Prospect,,49000000.0,2026-05-18,PLV Paris,1,R00377,False
+G00370,Maison Ysolde,Rayan,Bonnet,rayan.bonnet@maisonysolde.com,+33656412203,FR,Lyon,Horlogerie,Prospect,20450533158690,,2026-01-17,Events Dubai,1,R00378,False
+G00371,Couture Ardent,Yasmine,Laurent,yasmine.laurent@coutureardent.com,+33772760122,FR,Lyon,Vins & spiritueux,Client,99737631165668,2200000.0,2025-09-03,Events Dubai,1,R00379,False
+G00372,Domaine Saint-Alban,Thomas,Fontaine,thomas.fontaine@domainesaint-alban.com,+39866799840,IT,Milano,Joaillerie,Client,,52700000.0,2026-10-02,Vitrines Milano,1,R00380,False
+G00373,Atelier Nacré,Léa,Meyer,lea.meyer@ateliernacre.com,+33714671795,FR,Paris,Horlogerie,Prospect,99854353462478,16700000.0,2026-11-04,Digital London,1,R00381,False
+G00374,Couture Ardent,Chloé,Chevalier,chloe.chevalier@coutureardent.com,+33759724665,FR,Lyon,Vins & spiritueux,Client,99737631165668,21400000.0,2026-03-31,Events Dubai,1,R00382,False
+G00375,Maison Sarrazin,Sarah,Dubois,sarah.dubois@maisonsarrazin.com,+33616743380,FR,Lyon,Haute couture,Client,81219136193990,,2026-05-30,Print Lyon,1,R00383,False
+G00376,Galerie Mirabeau,Emma,Bernard,emma.bernard@galeriemirabeau.com,+33793183745,,Lyon,Vins & spiritueux,Client,42786801128053,,2024-08-19,PLV Paris,1,R00384,False
+G00377,Atelier Nacré,Léa,Chevalier,lea.chevalier@ateliernacre.com,+33619918081,FR,Paris,Horlogerie,Prospect,99854353462478,,2024-08-27,Digital London,1,R00385,False
+G00378,Atelier Nacré,Mehdi,Meyer,mehdi.meyer@ateliernacre.com,+33752137603,FR,Paris,Horlogerie,Client,99854353462478,,2025-07-01,PLV Paris,1,R00386,False
+G00379,Cristal Montaigne,Chloé,Girard,chloe.girard@cristalmontaigne.com,+33763266678,FR,Bordeaux,Horlogerie,Client,72423884969657,,2025-11-19,Print Lyon,1,R00387,False
+G00380,Bijoux Castellane,Amira,Mansouri,amira.mansouri@bijouxcastellane.com,+33702908466,,Bordeaux,Joaillerie,Prospect,79402654235112,1000000.0,2025-10-08,Print Lyon,1,R00388,False
+G00381,Atelier Nacré,Nora,Chevalier,nora.chevalier@ateliernacre.com,+33797563410,FR,Paris,Horlogerie,Prospect,99854353462478,53400000.0,2025-02-02,Print Lyon,1,R00389,False
+G00382,Bijoux Castellane,Emma,Khelifi,emma.khelifi@bijouxcastellane.com,+33720089434,FR,Bordeaux,Joaillerie,Client,79402654235112,86300000.0,2026-01-08,Events Dubai,1,R00390,False
+G00383,Orfèvrerie Delmas,Emma,Roux,emma.roux@orfevreriedelmas.com,+44974907539,GB,London,Haute couture,Prospect,,30800000.0,2026-07-20,PLV Paris,1,R00391,False
+G00384,Atelier Nacré,Nora,Meyer,nora.meyer@ateliernacre.com,+33693571266,FR,Paris,Horlogerie,Client,99854353462479,,2024-10-29,Print Lyon,1,R00392,False
+G00385,Domaine Saint-Alban,Mehdi,Haddad,mehdi.haddad@domainesaint-alban.com,,IT,Milano,Joaillerie,Prospect,,,2025-11-10,Events Dubai,1,R00393,True
+G00386,Atelier Nacré,Mehdi,Dubois,mehdi.dubois@ateliernacre.com,+33737702851,FR,Paris,Horlogerie,Prospect,99854353462478,38000000.0,2024-12-02,"Events Dubai, Vitrines Milano",2,"R00394, R00419",False
+G00387,Brume de Grasse,Yasmine,Rossi,yasmine.rossi@brumedegrasse.com,+33747022960,,Paris,Vins & spiritueux,Prospect,10651333872628,18900000.0,2025-11-08,Vitrines Milano,1,R00395,False
+G00388,Parfums d'Orsay Lune,Adam,Roux,adam.roux@parfumsdorsaylune.com,+33649756792,FR,Grasse,Parfums & cosmétiques,Prospect,94078161849594,68500000.0,2026-09-15,PLV Paris,1,R00396,False
+G00389,Maison Ysolde,Amira,Haddad,amira.haddad@maisonysolde.com,+33663658074,FR,Lyon,Horlogerie,Prospect,20450533158690,58700000.0,2024-08-26,Events Dubai,1,R00397,False
+G00390,Orfèvrerie Delmas,Adam,Haddad,adam.haddad@orfevreriedelmas.com,+44398378018,GB,London,Haute couture,Prospect,,,2026-05-10,"Events Dubai, Print Lyon",2,"R00398, R00413",False
+G00391,Galerie Mirabeau,Louise,Chevalier,louise.chevalier@galeriemirabeau.com,+33690705626,FR,Lyon,Vins & spiritueux,Prospect,42786801128053,,2026-08-29,Events Dubai,1,R00399,False
+G00392,Parfums d'Orsay Lune,Adam,Benali,adam.benali@parfumsdorsaylune.com,+33624620952,FR,Grasse,Parfums & cosmétiques,Client,94078161849594,,2026-02-04,Print Lyon,1,R00400,False

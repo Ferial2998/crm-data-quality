@@ -1,0 +1,6 @@
+subsidiary,records,quality_score,completeness,duplicate_rate,issues,blocking_issues
+Print Lyon,75,87.479,0.964,0.28,52,2
+Events Dubai,94,87.834,0.945,0.266,68,2
+PLV Paris,93,88.252,0.968,0.151,77,5
+Digital London,90,88.957,0.968,0.267,56,2
+Vitrines Milano,93,89.586,0.968,0.226,54,4
